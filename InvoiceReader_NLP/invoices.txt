@@ -1,0 +1,4503 @@
+id	text	tag
+1.png	Company Name	O
+1.png	INVOICE	O
+1.png	[Street Accress]	O
+1.png	[City, ST  ZIP]	O
+1.png	DATE	O
+1.png	12-9-2019	DATE
+1.png	INVOICE	O
+1.png	[123456]	NUMB
+1.png	CUSTOMER ID	O
+1.png	[123]	O
+1.png	Website: somecomain.com	O
+1.png	DUE DATE	O
+1.png	1-8-2020	O
+1.png	BILL TO	O
+1.png	[Name]	O
+1.png	[Company Name]	O
+1.png	[Street Accres]	O
+1.png	[City, ST  ZIP]	O
+1.png	[Phone]	O
+1.png	DESCRIPTION	O
+1.png	TAXED	O
+1.png	AMOUNT	O
+1.png	[Service Fee_	O
+1.png	230.00	O
+1.png	[Labor:	O
+1.png	hours at S75/hr]	O
+1.png	375.00	O
+1.png	[Parts]	O
+1.png	345.00	O
+1.png	Subtotal	O
+1.png	950.00	O
+1.png	Taxabl e	O
+1.png	345.00	O
+1.png	OTHER COMMENTS	O
+1.png	Tax rate	O
+1.png	Total	O
+1.png	paym ent cue in 30 cay	O
+1.png	Tax due	O
+1.png	21.56	O
+1.png	Flease include the invoice number on yourcheck	O
+1.png	Other	O
+1.png	TOTAL	O
+1.png	971.56	AMOUNT
+1.png	Make all check payadleto	O
+1.png	[Your Company Name]	O
+1.png	sou have	O
+1.png	questions about this invoice	O
+1.png	eas contact	O
+1.png	[Name	O
+1.png	Phone	O
+1.png	E-mail]	O
+1.png	Thank You For Your Business!	O
+1.png	excel-invoice-template html	O
+1.png	Temciate	O
+1.png	2010-2019 by Vertex-2.com	O
+100.png	Insert Logo	O
+100.png	Description	O
+100.png	Hours	O
+100.png	Price	O
+100.png	Total	O
+100.png	Here	O
+100.png	House Remodeling	O
+100.png	S55	O
+100.png	S55	O
+100.png	Consultotion	O
+100.png	Paint Job	O
+100.png	Premium	O
+100.png	S50	O
+100.png	S150	O
+100.png	Paint	O
+100.png	12 * 12 Room	O
+100.png	Plumbing Services	O
+100.png	535	O
+100.png	535	O
+100.png	Invoice # 1347	NUMB
+100.png	Change Gasket on	O
+100.png	Issued on: September 	DATE
+100.png	2017	O
+100.png	Faucet	O
+100.png	Payable To	O
+100.png	Holden	O
+100.png	Caulfield	O
+100.png	1382 Summit Park Avenue	O
+100.png	Southfield_	O
+100.png	PA 48075	O
+100.png	Contact Details	O
+100.png	Tel: +1 123-456-7891	O
+100.png	Email:	O
+100.png	Holden caulfleld@emallcom	O
+100.png	(handyman-holden	O
+100.png	Payment Details	O
+100.png	Holden	O
+100.png	Caulfield	O
+100.png	United Fremont Bank	O
+100.png	Acct: No. 1234 5678 9123	O
+100.png	Total Amount:	O
+100.png	S240.00	O
+100.png	Tax (6%):	O
+100.png	S14.40	O
+100.png	Amount Due:	O
+100.png	S254.40	AMOUNT
+105.jpg	Poyment Into	O
+105.jpg	Total:	O
+105.jpg	5220.00	AMOUNT
+107.png	[Company Name]	O
+107.png	INVOICE	O
+107.png	[123456]	NUMB
+107.png	[245]	O
+107.png	IName]	O
+107.png	Comcary Nama]	O
+107.png	[Frore]	O
+107.png	Nem	O
+107.png	Thank you forycur business	O
+107.png	TOTAL	O
+107.png	551,56	AMOUNT
+107.png	Ifyou rav	O
+107.png	[Nana	O
+107.png	@3w	O
+108.png	DJ Service Invoice	O
+108.png	Bill To:	O
+108.png	M1ao	O
+108.png	S1010.00	AMOUNT
+110.png	Invoice	O
+110.png	BILL To	O
+110.png	INVOICE	O
+110.png	NUMBER	O
+110.png	789	NUMB
+110.png	PAYMENT	O
+110.png	STATUS	O
+110.png	Pending	O
+110.png	Customer Name	O
+110.png	1234 Main	O
+110.png	ISSUE	O
+110.png	DATE	O
+110.png	8.28.17	DATE
+110.png	Street	O
+110.png	CUSTOMER ID	O
+110.png	ABCD	O
+110.png	Customer Company Name	O
+110.png	Suite 100	O
+110.png	1.112.223.456	O
+110.png	Philadelphia	O
+110.png	WORK ORDER #	O
+110.png	123465	O
+110.png	DESCRIPTION	O
+110.png	HOURS	O
+110.png	RATE	O
+110.png	AMOUNT	O
+110.png	Item name and description goes here	O
+110.png	3	O
+110.png	S25.00	O
+110.png	S75.00	O
+110.png	Item name and description goes here	O
+110.png	S25.00	O
+110.png	S25.00	O
+110.png	Item name and description goes here	O
+110.png	2	O
+110.png	S25.00	O
+110.png	S50.00	O
+110.png	Item name and description goes here	O
+110.png	3	O
+110.png	S33.00	O
+110.png	s99.00	O
+110.png	Item name and description goes here	O
+110.png	833.00	O
+110.png	533.00	O
+110.png	SUBTOTAL	O
+110.png	S282.00	O
+110.png	PROJECT NOTES	O
+110.png	DISCOUNT (10%	O
+110.png	S28.20	O
+110.png	This is a great	O
+110.png	to add	O
+110.png	personalized thank you	O
+110.png	note to your client:	O
+110.png	S258.8	AMOUNT
+110.png	TOTAL	O
+110.png	QUESTIONS?	O
+110.png	Please contact [Name] at [Phone Number]	O
+110.png	or [Email Address]:	O
+110.png	Thank you for your	O
+110.png	businessl	O
+110.png	PAYMENT	O
+110.png	DUE BY: 9.28.17	O
+110.png	1234 Main Street	O
+110.png	Company	O
+110.png	Philadelphia, PA 19147	O
+110.png	1.112.223.333	O
+110.png	SampleCompany@Sample.com	O
+110.png	Name	O
+110.png	SampleCompany com	O
+110.png	Get paid faster_with Invoice Quickly	O
+110.png	InvoiceQuickly	O
+110.png	spot	O
+114.jpg	Invoice	O
+114.jpg	Company Name	O
+114.jpg	Acdress line	O
+114.jpg	Accrress line 2	O
+114.jpg	City, Postcode	O
+114.jpg	Phone: 1234 567 890	O
+114.jpg	Invoice Date:	O
+114.jpg	18-3-2021	DATE
+114.jpg	Invoice Number:	O
+114.jpg	1234	NUMB
+114.jpg	Client Reference:	O
+114.jpg	Purchase Order:	O
+114.jpg	Customer Company	O
+114.jpg	DUE DATE:	O
+114.jpg	18-3-2021	O
+114.jpg	Customer Namie	O
+114.jpg	Ackress line	O
+114.jpg	Cily, Postcode	O
+114.jpg	Additional information	O
+114.jpg	Add any additional instructions Or telms nere	O
+114.jpg	Description	O
+114.jpg	Qty	O
+114.jpg	Unit	O
+114.jpg	Unit Price	O
+114.jpg	VAT %	O
+114.jpg	VAT	O
+114.jpg	Total	O
+114.jpg	Example product	O
+114.jpg	pCS	O
+114.jpg	{ 60	O
+114.jpg	20%	O
+114.jpg	60	O
+114.jpg	300	O
+114.jpg	Example work	O
+114.jpg	105	O
+114.jpg	20%	O
+114.jpg	210	O
+114.jpg	{ 1 050,00	O
+114.jpg	Sub Total	O
+114.jpg	350	O
+114.jpg	Total VAT	O
+114.jpg	270	O
+114.jpg	Total amount due	O
+114.jpg	620	AMOUNT
+114.jpg	Registered Address	O
+114.jpg	Conachinfotmation	O
+114.jpg	Payment Details	O
+114.jpg	Addres$ Line	O
+114.jpg	Ccnlact Name	O
+114.jpg	Benk Name	O
+114.jpg	PLC	O
+114.jpg	Address Line	O
+114.jpg	Plone: 1234 567 890	O
+114.jpg	Sor-Code	O
+114.jpg	City. Postcode	O
+114.jpg	Email: iirstlast@company co.uk	O
+114.jpg	Account No_	O
+114.jpg	123456789	O
+114.jpg	Logo	O
+114.jpg	Your	O
+116.jpg	INVOIcE	O
+116.jpg	T H E	O
+116.jpg	D E $ | G N	O
+116.jpg	S T U D | 0	O
+116.jpg	(+12) 489 2901	O
+116.jpg	WWW.	O
+116.jpg	thedesignstudio.com	O
+116.jpg	Los	O
+116.jpg	Angeles, California	O
+116.jpg	AMANDA RICHARDSON	O
+116.jpg	Znd Avenue corner 125 West Brooke Drive	O
+116.jpg	Los	O
+116.jpg	Angeles	O
+116.jpg	California 90478	O
+116.jpg	United States of America	O
+116.jpg	INVOICE NO:	O
+116.jpg	TDS 000313	NUMB
+116.jpg	DATE ISSUED:	O
+116.jpg	October 13 2019	DATE
+116.jpg	DESCRIPTION	O
+116.jpg	QTY	O
+116.jpg	PRICE	O
+116.jpg	AMOUNT	O
+116.jpg	12 x 18 Sheet	O
+116.jpg	$8.00	O
+116.jpg	516.00	O
+116.jpg	Colored Viny	O
+116.jpg	Stickers	O
+116.jpg	8.5 x 11 Colored	O
+116.jpg	$2.00	O
+116.jpg	$10,00	O
+116.jpg	CzSOo Print	O
+116.jpg	8.5 x 11 B&w	O
+116.jpg	$1,00	O
+116.jpg	52.00	O
+116.jpg	CzSOo Print	O
+116.jpg	SHIPPING FEE	O
+116.jpg	52	O
+116.jpg	SERVICE TAX	O
+116.jpg	52	O
+116.jpg	AMOUNT DUE	O
+116.jpg	S32.00	AMOUNT
+118.jpg	INVOICE	O
+118.jpg	#0079	NUMB
+118.jpg	nov-24	DATE
+118.jpg	2010	DATE
+118.jpg	FROM:	O
+118.jpg	TO:	O
+118.jpg	YOUR NAME	O
+118.jpg	CUIENT NAME	O
+118.jpg	TOUFCOMPANT	O
+118.jpg	CLENTCONPANT	O
+118.jpg	134 STRFETNAME	O
+118.jpg	9876 STRFETNAME	O
+118.jpg	ETATE	O
+118.jpg	023 123-4667	O
+118.jpg	(321) 6754-123	O
+118.jpg	FoR:	O
+118.jpg	Cccdg	O
+118.jpg	Unil Rice	O
+118.jpg	SOME SEFVICE	O
+118.jpg	29.99	O
+118.jpg	29.99	O
+118.jpg	ITEM SOLD	O
+118.jpg	45.00	O
+118.jpg	45.00	O
+118.jpg	ANOTHER SEAVICE	O
+118.jpg	55.00	O
+118.jpg	55.00	O
+118.jpg	TOTAL:	O
+118.jpg	5129	AMOUNT
+118.jpg	NOTES	O
+118.jpg	Hu	O
+119.jpg	ZOHOCORP	O
+119.jpg	INVOICE	O
+119.jpg	#4900 Hopyard Rd,	O
+119.jpg	Suite 310,	O
+119.jpg	easanton	O
+119.jpg	Bill To:	O
+119.jpg	Ship To:	O
+119.jpg	Invoice Amount	O
+119.jpg	AdventNet Corp	O
+119.jpg	AdventNet Corp	O
+119.jpg	S1564.81	AMOUNT
+119.jpg	#4900 Hopyard Rd, Suite 310,	O
+119.jpg	#4900 Hopyard Rd, Suite 310,	O
+119.jpg	Pleasanton	O
+119.jpg	Pleasanton	O
+119.jpg	Invoice date	O
+119.jpg	PO#	O
+119.jpg	Terms	O
+119.jpg	Due Date	O
+119.jpg	Apr 08, 2013	DATE
+119.jpg	29183	O
+119.jpg	30 Days	O
+119.jpg	May 08,2013	O
+119.jpg	Qty	O
+119.jpg	Unit Price	O
+119.jpg	Zoho Books	O
+119.jpg	1.00	O
+119.jpg	51,018.52	O
+119.jpg	S1,018.52	O
+119.jpg	Lorem ipsum Color sit amet consectetur adipiscing elit Maecenas	O
+119.jpg	porttitor quam interd um nisl suscipit tempor:	O
+119.jpg	Zoho CRM	O
+119.jpg	1.00	O
+119.jpg	583.33	O
+119.jpg	583.33	O
+119.jpg	Lorem ipsum dolor sit amet	O
+119.jpg	porttitor quam interdum nisl suscipit tempor:	O
+119.jpg	Zoho Invoice	O
+119.jpg	1.00	O
+119.jpg	S462.96	O
+119.jpg	5462.96	O
+119.jpg	Lorem ipsum dolor sit amet	O
+119.jpg	porttitor quaminterdumnisl suscipit tempor:	O
+119.jpg	Thanks for your business	O
+119.jpg	Subtotal	O
+119.jpg	S1564.81	O
+119.jpg	TOTAL	O
+119.jpg	S1564.81	O
+119.jpg	Payment Options	O
+119.jpg	PayPai	O
+119.jpg	HDFC Bank	O
+119.jpg	Son Cojc	O
+119.jpg	Terms	O
+119.jpg	Conditicns	O
+119.jpg	General Terms ) and terms and conditions if any specifictouse of	O
+119.jpg	individual Services (hereinafter the	O
+119.jpg	Service Specific Terms	O
+119.jpg	The General Terms and Service Specific Terms Jre	O
+119.jpg	llectively referred t0	O
+119.jpg	conflict betveenthe Genera	O
+119.jpg	Terms and Service Specific Terms, the Service Specific Terms sha	O
+119.jpg	Prevall	O
+12.png	My Company name	O
+12.png	Invoice	O
+12.png	INV-00000	NUMB
+12.png	My company slogan	O
+12.png	September 8, 2013	DATE
+12.png	Invcc	O
+12.png	Insert Your Logo	O
+12.png	Cuslcmei ID	O
+12.png	[ABC12345]	O
+12.png	Purchasc	O
+12.png	Urc Cr #	O
+12.png	12345578	O
+12.png	Payment Due by:	O
+12.png	2013	O
+12.png	Bill To:	O
+12.png	Ship	O
+12.png	Diffcrentj:	O
+12.png	INaMT	O
+12.png	[Namcl	O
+12.png	'Company Namel	O
+12.png	[Stree: Address]	O
+12.png	[Street Address]	O
+12.png	[City, ST	O
+12.png	ZIP Code]	O
+12.png	[City	O
+12.png	ZIP Codc]	O
+12.png	IPhcne]	O
+12.png	[Phonel	O
+12.png	Printing and Binding (160*51,75/each)	O
+12.png	280 00	O
+12.png	Printing	O
+12.png	(10*515.20/5*500 Sheets)	O
+12.png	152.00	O
+12.png	Special	O
+12.png	Instructions	O
+12.png	Sublotal	O
+12.png	432.00	O
+12.png	Sales Tax Rate	O
+12.png	Sales Tax	O
+12.png	S8h	O
+12.png	Discoun	O
+12.png	Total	O
+12.png	432.00	AMOUNT
+12.png	Make all checks	O
+12.png	Mv Comoanv namc	O
+12.png	Thank you for your businessl	O
+12.png	Should you	O
+12.png	Inis Invoicc	O
+12.png	plcase conlact John	O
+12.png	Sepio	O
+12.png	Papcr	O
+12.png	Hoter	O
+12.png	payable	O
+120.png	Invoice	O
+120.png	Your Company Name	O
+120.png	INVOICE TO:	O
+120.png	Invoice #	O
+120.png	[Street address]	O
+120.png	Company Name	O
+120.png	1	NUMB
+120.png	[City, State]	O
+120.png	[Street address]	O
+120.png	[Country]	O
+120.png	[City, State]	O
+120.png	Date of Invoice	O
+120.png	[Postal]	O
+120.png	[Country]	O
+120.png	1-12-2020	DATE
+120.png	[Postal]	O
+120.png	Description	O
+120.png	Qty	O
+120.png	Price	O
+120.png	Tax	O
+120.png	Amount	O
+120.png	Item 1	O
+120.png	1%	O
+120.png	R1o1.oo	O
+120.png	Item 2	O
+120.png	Rzoo.oo	O
+120.png	1%	O
+120.png	RLol.0O	O
+120.png	Item 3	O
+120.png	1%	O
+120.png	R303.00	O
+120.png	Item 4	O
+120.png	Rzoo.oo	O
+120.png	1%	O
+120.png	R8o8.00	O
+120.png	Item 5	O
+120.png	5	O
+120.png	Rzoo.oo	O
+120.png	1%	O
+120.png	R1,010.00	O
+120.png	Item 6	O
+120.png	Rzzo.0o	O
+120.png	1%	O
+120.png	R1,333.20	O
+120.png	Item 7	O
+120.png	RzLo.oo	O
+120.png	1%	O
+120.png	R1,696.80	O
+120.png	Item &	O
+120.png	R260.0o	O
+120.png	1%	O
+120.png	R2,100.80	O
+120.png	Subtotal:	O
+120.png	R7,756.80	AMOUNT
+120.png	Discount:	O
+120.png	100	O
+120.png	VAT:	O
+120.png	5%	O
+120.png	VAT rate:	O
+120.png	R382.84	O
+120.png	Invoice Total	O
+120.png	R8,039.64	O
+120.png	Notes:	O
+120.png	Terms and conditions:	O
+120.png	Free template by InvoiceBerry	O
+121.jpg	Brubaker	O
+121.jpg	P.0	O
+121.jpg	Box 4371 TAYLOR STREET	O
+121.jpg	WESTBURY_	O
+121.jpg	NY 11590	O
+121.jpg	914-625-0403	O
+121.jpg	Productions	O
+121.jpg	BRUBAKERPRODUCTIONS com	O
+121.jpg	INVOICE	O
+121.jpg	# 0018	NUMB
+121.jpg	DATE ISSUED: 28 DECEMBER 2019	DATE
+121.jpg	DEScRiPTiON	O
+121.jpg	PRICE	O
+121.jpg	TOTAL	O
+121.jpg	Redhead Light Rental	O
+121.jpg	520.00	O
+121.jpg	S100.00	O
+121.jpg	Diva Light Rental	O
+121.jpg	520.00	O
+121.jpg	540.00	O
+121.jpg	Boom Mike Overhead	O
+121.jpg	510.00	O
+121.jpg	510.00	O
+121.jpg	Dead Cat	O
+121.jpg	S5.00	O
+121.jpg	510.00	O
+121.jpg	Video Camera Rental	O
+121.jpg	550.00	O
+121.jpg	S100.00	O
+121.jpg	TOTAL AMoUnT:	O
+121.jpg	5260.00	O
+121.jpg	TAX:	O
+121.jpg	53.20	O
+121.jpg	AMOUNT DUE:	O
+121.jpg	5263.20	O
+121.jpg	Timothy SLACK	AMOUNT
+121.jpg	CENTRAL BANK OF AMERICA	O
+121.jpg	1920483	O
+121.jpg	Thank you	O
+121.jpg	very much!	O
+122.jpg	Bill t0:	O
+122.jpg	CREATIVE MEDIA	O
+122.jpg	Dwyane Clark	O
+122.jpg	HE R F	O
+122.jpg	24 Dummy	O
+122.jpg	Company Address_	O
+122.jpg	Location	O
+122.jpg	Lorem lpsun	O
+122.jpg	57077597	O
+122.jpg	Lorem	O
+122.jpg	Ipsum Dolor,	O
+122.jpg	845x*145	O
+122.jpg	INVOICE	O
+122.jpg	INVOICE	O
+122.jpg	24856	NUMB
+122.jpg	DATE	O
+122.jpg	1-2-2020	DATE
+122.jpg	2020	O
+122.jpg	product description	O
+122.jpg	PRICE	O
+122.jpg	TOTAL	O
+122.jpg	Lorem	O
+122.jpg	psum Dolor	O
+122.jpg	550.00	O
+122.jpg	5250.00	O
+122.jpg	Pellentesque id neque ligula	O
+122.jpg	siO.00	O
+122.jpg	Sio.00	O
+122.jpg	Intendum	O
+122.jpg	malesuada fames	O
+122.jpg	s75,00	O
+122.jpg	Vivamus	O
+122.jpg	volutpat Faucibus	O
+122.jpg	S40.00	O
+122.jpg	s80.00	O
+122.jpg	Comments	O
+122.jpg	Subtotal	O
+122.jpg	5415.00	O
+122.jpg	Paymeni	O
+122.jpg	Discount	O
+122.jpg	S15.00	O
+122.jpg	Tax Rate	O
+122.jpg	TOTAL	O
+122.jpg	5405.00	AMOUNT
+122.jpg	VectorStock	O
+122.jpg	VectorStock com/16200420	O
+122.jpg	Youi	O
+123.jpg	INVOICE	O
+123.jpg	Drand Name	O
+126.jpg	tn-invoice9201.pdf	O
+126.jpg	Search	O
+126.jpg	COMPANY NAME	O
+126.jpg	Ilslogan	O
+126.jpg	Iltagline	O
+126.jpg	{lwebsite	O
+126.jpg	AppleSource Software	O
+126.jpg	INVOICE	O
+126.jpg	1999 Woodside Dr	O
+126.jpg	Invoice No: GNB-101	NUMB
+126.jpg	Medford, OR 97501	O
+126.jpg	Date: 11/28/16	DATE
+126.jpg	541-261-9785	O
+126.jpg	Amount Due: SO.00	O
+126.jpg	Goliath National Bank	O
+126.jpg	1622 Westshown Village	O
+126.jpg	STE 103	O
+126.jpg	Medford, OR 97504	O
+126.jpg	New Corporate Identity	O
+126.jpg	Date	O
+126.jpg	Description	O
+126.jpg	Time/Qty	O
+126.jpg	Rate	O
+126.jpg	Amount	O
+126.jpg	10/27/15	O
+126.jpg	Website Redesign	O
+126.jpg	16.00.00	O
+126.jpg	S75.00	O
+126.jpg	S1,200.00	O
+126.jpg	Build Template, CSS, JSON compatible back-end	O
+126.jpg	10/27/15	O
+126.jpg	Graphic Design for Website	O
+126.jpg	3.30.00	O
+126.jpg	S40.00	O
+126.jpg	S140.00	O
+126.jpg	Background	O
+126.jpg	10/27/15	O
+126.jpg	Discuss First Mockup	O
+126.jpg	1.00.00	O
+126.jpg	S65.00	O
+126.jpg	S65.00	O
+126.jpg	10/27/15	O
+126.jpg	DVD Copy	O
+126.jpg	S6.00	O
+126.jpg	S6.00	O
+126.jpg	10/27/15	O
+126.jpg	10 Page Website Pack	O
+126.jpg	S1,250.00	O
+126.jpg	S1,250.00	O
+126.jpg	Fees Total	O
+126.jpg	20.30:00	O
+126.jpg	S2,661.00	O
+126.jpg	10/28/15	O
+126.jpg	Travel Charges	O
+126.jpg	S47.00	O
+126.jpg	S47.00	O
+126.jpg	Expenses Total	O
+126.jpg	S47.00	O
+126.jpg	Subtotal	O
+126.jpg	S2,708.00	O
+126.jpg	Payments	O
+126.jpg	S850.00	O
+126.jpg	Balance	O
+126.jpg	S1,858.00	AMOUNT
+126.jpg	Cancel	O
+126.jpg	Print	O
+129.jpg	Name	O
+129.jpg	INVOICE	O
+132.png	Company Name	O
+132.png	INVOICE	O
+132.png	INVOICE#  00-000000	NUMB
+132.png	DATE	O
+132.png	6/24/2013	DATE
+132.png	MAIVNG	O
+132.png	ELL	O
+132.png	Nin	O
+132.png	Oustomer	O
+132.png	St ZP	O
+132.png	#one	O
+132.png	cirtptoy	O
+132.png	cenice Fee	O
+132.png	145.12	O
+132.png	Labor:6 hoursat $75/0	O
+132.png	375.00	O
+132.png	TOTAL	O
+132.png	470.12	AMOUNT
+132.png	Thank You For YourBusiness!	O
+136.jpg	Your nanie	O
+136.jpg	MoUngnallcon	O
+136.jpg	Your fancy streel	O
+136.jpg	The	O
+136.jpg	Apple	O
+136.jpg	Awesonie cllent	O
+136.jpg	Invoice #123	NUMB
+136.jpg	Vounomallcom	O
+136.jpg	Your fancy streel	O
+136.jpg	Involce descrptlon	O
+136.jpg	The Hlg Apple	O
+136.jpg	Rate	O
+136.jpg	03/22/17	DATE
+136.jpg	Wiretrames for Lancing Page	O
+136.jpg	2	O
+136.jpg	Logo clesign	O
+136.jpg	ssoo/week	O
+136.jpg	4500	O
+136.jpg	51500	O
+136.jpg	AMout	O
+136.jpg	Internel bills	O
+136.jpg	582,5	O
+136.jpg	5825	O
+136.jpg	Total	O
+136.jpg	04/22/17	O
+136.jpg	662,7	O
+136.jpg	1500.00	AMOUNT
+136.jpg	Pay INVOICE ONLINE	O
+136.jpg	invoice Diue	O
+136.jpg	Bank account nurber or PayPa	O
+136.jpg	account	O
+136.jpg	04/22/17	O
+136.jpg	Should be added here	O
+137.jpg	JOHN	O
+137.jpg	SMDTH	O
+137.jpg	John Smith Marlborough Hill	O
+137.jpg	Kate	O
+137.jpg	Carrow Road	O
+137.jpg	Norwich	O
+137.jpg	NRI 1JE	O
+137.jpg	VAT No,	O
+137.jpg	333444555	O
+137.jpg	Invoice	O
+137.jpg	Invoice No.	O
+137.jpg	INV-19-0062	NUMB
+137.jpg	Invoice Date	O
+137.jpg	2-7-2019	O
+137.jpg	Due Date	O
+137.jpg	16-7-2019	DATE
+137.jpg	Description	O
+137.jpg	Quantily	O
+137.jpg	Unit	O
+137.jpg	Price	O
+137.jpg	Discount	O
+137.jpg	Amount	O
+137.jpg	Consultation	O
+137.jpg	each	O
+137.jpg	50.00	O
+137.jpg	100%	O
+137.jpg	0.00	O
+137.jpg	Wedding photography	O
+137.jpg	hour	O
+137.jpg	25.00	O
+137.jpg	250.00	O
+137.jpg	Editing and touch-upS	O
+137.jpg	each	O
+137.jpg	25.00	O
+137.jpg	375.00	O
+137.jpg	Digital	O
+137.jpg	photos	O
+137.jpg	each	O
+137.jpg	70.00	O
+137.jpg	10%	O
+137.jpg	63.00	O
+137.jpg	Photo prints	O
+137.jpg	each	O
+137.jpg	150.00	O
+137.jpg	150	O
+137.jpg	Subtotal without VAT	O
+137.jpg	698.33	O
+137.jpg	VAT 209 of 698.33	O
+137.jpg	139.67	O
+137.jpg	Total GBP	O
+137.jpg	838.00	AMOUNT
+137.jpg	John Smith	O
+137.jpg	Marborcugh HMI	O
+137.jpg	Harrov , Middlesex	O
+137.jpg	HAI 1UD	O
+137.jpg	Email: johnasmith.com	O
+137.jpg	Phone:	O
+137.jpg	+11 234 567 A90	O
+137.jpg	Reg: No	O
+137.jpg	Bank: 1234567	O
+137.jpg	Sort Code: 0011ZZ	O
+137.jpg	Account No:	O
+137.jpg	Account	O
+137.jpg	Holder: John Smith	O
+137.jpg	SWIFT: 112233	O
+137.jpg	IBAN: GB29 NWBK 6016 1331 9268	O
+14.jpg	Acme	O
+14.jpg	87 Queen Street	O
+14.jpg	4161234567	O
+14.jpg	Hamlet, Ontario	O
+14.jpg	Company name	O
+14.jpg	NZRZR2	O
+14.jpg	Canada	O
+14.jpg	Sample invoice	O
+14.jpg	Billed To	O
+14.jpg	Date of Issue	O
+14.jpg	Invoice Number	O
+14.jpg	Amount Due (CAD)	O
+14.jpg	Aden Matchett	O
+14.jpg	6-3-2019	O
+14.jpg	5	NUMB
+14.jpg	Vandelay Group	O
+14.jpg	$5,500.00	O
+14.jpg	123 Main Street	O
+14.jpg	Due Date	O
+14.jpg	Townsville, Ontario	O
+14.jpg	7-3-2019	DATE
+14.jpg	M4LZDY	O
+14.jpg	Description	O
+14.jpg	Rate	O
+14.jpg	Qty	O
+14.jpg	Line Total	O
+14.jpg	Project	O
+14.jpg	S5,000.00	O
+14.jpg	S5,000.00	O
+14.jpg	Expenses	O
+14.jpg	$500.00	O
+14.jpg	S500.00	O
+14.jpg	Subtotal	O
+14.jpg	5,500.00	O
+14.jpg	Tax	O
+14.jpg	0.00	O
+14.jpg	Total	O
+14.jpg	5,500.00	O
+14.jpg	Amount Paid	O
+14.jpg	0.00	O
+14.jpg	Amount Due (CAD)	O
+14.jpg	S5,500.00	AMOUNT
+141.png	Invoice #000023	NUMB
+141.png	January 27 2020	DATE
+141.png	ATTN:	O
+141.png	Lee Hummings	O
+141.png	Procurement	O
+141.png	412 Cherry Street, Dodge City, KS 12312	O
+141.png	+1 231-123-4125	O
+141.png	Lee.hummings@maplemattresses com	O
+141.png	ITEM	O
+141.png	QUANTITY	O
+141.png	UNIT PRICE	O
+141.png	Flamingo Print Pillow	O
+141.png	2 unit	O
+141.png	S123.45	O
+141.png	Case	O
+141.png	Gold Foil Pillow Case	O
+141.png	1 unit	O
+141.png	S12.34	O
+141.png	Polka Dots Fitted Sheet	O
+141.png	1 unit	O
+141.png	S1.23	O
+141.png	SUBTOTAL	O
+141.png	$ 567.89	O
+141.png	APPLIED DISCOUNT	O
+141.png	12%	O
+141.png	SALES TAX PAYABLE	O
+141.png	NJA	O
+141.png	FREIGHT /DELIVERY	O
+141.png	FREEI	O
+141.png	TOTAL DUE $ 1901.23	AMOUNT
+141.png	Payment can be made via:	O
+141.png	Paypal: payment@maplemattresses.com	O
+141.png	Direct Deposit: Maple Mattresses	O
+141.png	Acc_	O
+141.png	No. 1234 5678 910	O
+141.png	Please make payment within 30 days of	O
+141.png	invoice issued-	O
+141.png	Maple Mattresses	O
+141.png	+1 123-456-7891	O
+141.png	sales@maplemattresses.com	O
+142.png	INVOICE	O
+142.png	Company Name	O
+142.png	#0126	NUMB
+142.png	Clty, Zic Code	O
+142.png	Hethed	O
+142.png	check	O
+142.png	{1S00	O
+142.png	Credit Card	O
+142.png	SD	O
+142.png	Sub Tcta	O
+142.png	{13.650	AMOUNT
+142.png	MCompanyi}	O
+142.png	Jul 22,,2020	DATE
+145.png	COMPANY NAME	O
+145.png	0 90	O
+145.png	Fhore [509,595,0120]	O
+145.png	[Cillu ST ZIP Code]	O
+145.png	(509,5550191]	O
+145.png	INVOICE TO:	O
+145.png	INVOICE #[100]	NUMB
+145.png	[Name]	O
+145.png	DATe: SEPTEMBER 7,2016	DATE
+145.png	[Company Name]	O
+145.png	[Streei Address]	O
+145.png	[Cily ST ZIP Code]	O
+145.png	[Phone]	O
+145.png	JOB DESCRIPTION	O
+145.png	QUANTITY	O
+145.png	UNIT PRICE	O
+145.png	TOTAL	O
+145.png	Weddlng pictures	O
+145.png	providuan <Ira descripiion	O
+145.png	320	O
+145.png	S500	O
+145.png	Job 2	O
+145.png	Use	O
+145.png	S20	O
+145.png	S200	O
+145.png	SUBTOTAL	O
+145.png	5700	O
+145.png	Poument	O
+145.png	SALES TAX 10%6	O
+145.png	570	O
+145.png	DISCOUNT 5%6	O
+145.png	S35	O
+145.png	GRAND TOTAL	O
+145.png	S735	AMOUNT
+145.png	InvoiceBerry	O
+146.jpg	Invoice No. 18-P-0023	NUMB
+146.jpg	Invoice Date 08/03/2018	DATE
+146.jpg	Due Date 22/03/2018	O
+146.jpg	cafeShop}	O
+146.jpg	Issuer	O
+146.jpg	Customer	O
+146.jpg	CafeShop	O
+146.jpg	James	O
+146.jpg	42 Trial Road, Trialtown, T1 TT	O
+146.jpg	93 Maidstone Road	O
+146.jpg	Co.	O
+146.jpg	No:: HD395729	O
+146.jpg	Welton, LN2 3LY	O
+146.jpg	VAT No: 123456789	O
+146.jpg	Description	O
+146.jpg	Quantity	O
+146.jpg	Unit	O
+146.jpg	Price	O
+146.jpg	VAT	O
+146.jpg	Amount	O
+146.jpg	Costa Rican Coffee Beans	O
+146.jpg	each	O
+146.jpg	32.00	O
+146.jpg	0%	O
+146.jpg	224.00	O
+146.jpg	Limited edition whole coffee beans	O
+146.jpg	from Costa Rica. Comes in 1kg/35.2	O
+146.jpg	ounce	O
+146.jpg	French press	O
+146.jpg	10	O
+146.jpg	each	O
+146.jpg	22.50	O
+146.jpg	20%	O
+146.jpg	225.00	O
+146.jpg	High-quality french press style coffee	O
+146.jpg	maker for ground coffee beans	O
+146.jpg	Makes 6 cups:	O
+146.jpg	Vintage look wooden coffee	O
+146.jpg	21.00	O
+146.jpg	20%	O
+146.jpg	147.00	O
+146.jpg	grinder	O
+146.jpg	Wooden grinder for coffee beans	O
+146.jpg	and spices with steel insert and	O
+146.jpg	handle	O
+146.jpg	Subtotal without VAT	O
+146.jpg	596.00	O
+146.jpg	VAT O% of 224.00	O
+146.jpg	0.00	O
+146.jpg	VAT 20% of 372.00	O
+146.jpg	74.40	O
+146.jpg	Total GBP	O
+146.jpg	670.40	AMOUNT
+146.jpg	Testing save as default settings.	O
+146.jpg	CafeShop	O
+146.jpg	Bank:	O
+146.jpg	Barclays	O
+146.jpg	Co	O
+146.jpg	Reg: No:: HD395729	O
+146.jpg	42 Trial Road, Trialtown, T1 TT	O
+146.jpg	IBAN: 487238964754	O
+146.jpg	VAT No:: 123456789	O
+146.jpg	Phone: 444555666	O
+146.jpg	SWIFT: 1234567890	O
+146.jpg	Email: whi@debitoor.com	O
+146.jpg	Sort Code: 12875039	O
+146.jpg	Website: Yourcompany.co.uk	O
+146.jpg	Account No:: 238573385378493	O
+146.jpg	Account Holder: Company Name	O
+146.jpg	Kerry	O
+146.jpg	Reg:	O
+146.jpg	bag:	O
+146.jpg	each	O
+149.png	Craig's Design and Landscaping Services	O
+149.png	123 Sierra Way	O
+149.png	San Pablo	O
+149.png	noreply@quickbooks.com	O
+149.png	INVOICE	O
+149.png	BILL TO	O
+149.png	INVOICE # 1012	NUMB
+149.png	Shara Bamett	O
+149.png	DATE 11/08/2019	DATE
+149.png	Barnett Design	O
+149.png	DUE DATE	O
+149.png	2/08/201:	O
+149.png	19 Main St	O
+149.png	TERMS Net 30	O
+149.png	Middlefield, CA 94303	O
+149.png	ACTIVITY	O
+149.png	DESCRIPTION	O
+149.png	QTY	O
+149.png	RATE	O
+149.png	AMOUNT	O
+149.png	Sprinkler Heads	O
+149.png	Sprinkler Heads	O
+149.png	2.00	O
+149.png	30.00	O
+149.png	Rock Fountain	O
+149.png	Rock Fountain	O
+149.png	275.00	O
+149.png	275.00	O
+149.png	Thankyou for your busiress and have	O
+149.png	SUBTOTAL	O
+149.png	305.00	O
+149.png	DISCOUNT	O
+149.png	10%6	O
+149.png	30.50	O
+149.png	TOTAL	O
+149.png	274.50	O
+149.png	BALANCE DUE	O
+149.png	S274.50	AMOUNT
+151.jpg	SHUTTER UP PHOTOGRAPHY	O
+151.jpg	WedJim:	O
+151.jpg	'uilies_	O
+151.jpg	Eveus	O
+151.jpg	Invoice	O
+151.jpg	Invoice No:	O
+151.jpg	INV-4	NUMB
+151.jpg	170 Locust Ave_	O
+151.jpg	Date:	O
+151.jpg	6-8-2018	DATE
+151.jpg	New Bedford	O
+151.jpg	Terms:	O
+151.jpg	NET 0	O
+151.jpg	MA 02740	O
+151.jpg	Due Date:	O
+151.jpg	6-8-2018	O
+151.jpg	shutterupephotography.com	O
+151.jpg	WWWshutterupphotography.com	O
+151.jpg	555-1253	O
+151.jpg	Bill To:	O
+151.jpg	Raj Winning	O
+151.jpg	raj@winning com	O
+151.jpg	90 N. Wild Rose Dr:	O
+151.jpg	Brandon	O
+151.jpg	Description	O
+151.jpg	TAX	O
+151.jpg	Amount	O
+151.jpg	Wedding Package #3	O
+151.jpg	800	O
+151.jpg	53,999.00	O
+151.jpg	Full day coverage by two photographers	O
+151.jpg	Unlimited number of photographs taken	O
+151.jpg	Engagement photo session up to onehour	O
+151.jpg	One	O
+151.jpg	"6x24"" stretch canvas"	O
+151.jpg	"One 12x18"" flush mounted album"	O
+151.jpg	One leather album case	O
+151.jpg	All high-resolution photos on USB	O
+151.jpg	Subtotal	O
+151.jpg	S3,999.00	O
+151.jpg	TAX 8%	O
+151.jpg	S319.92	O
+151.jpg	Total	O
+151.jpg	S4,318.92	AMOUNT
+151.jpg	Paid	O
+151.jpg	So.0o	O
+151.jpg	Pay	O
+151.jpg	BALANCE DUE	O
+151.jpg	S4,318.92	O
+151.jpg	InvoiceZgo	O
+151.jpg	VISA	O
+151.jpg	Comments	O
+151.jpg	Thank you for letting me be a part of your beautiful dayl	O
+151.jpg	Now	O
+155.jpg	[0	O
+155.jpg	Epot	O
+155.jpg	EATERY	O
+155.jpg	INVOICE	O
+155.jpg	FROM	O
+155.jpg	INVOIcE NUMBER	O
+155.jpg	INV-0007	NUMB
+155.jpg	ISSUED	O
+155.jpg	DUE	O
+155.jpg	April 20, 2014	DATE
+155.jpg	descRiption	O
+155.jpg	QuaNTity	O
+155.jpg	UniT Price	O
+155.jpg	TaX	O
+155.jpg	Amount	O
+155.jpg	108	O
+155.jpg	220.00	O
+155.jpg	320 . 0D	O
+155.jpg	Total	O
+155.jpg	Salcs Tax 108	O
+155.jpg	32 , 00	O
+155.jpg	AMOUNT DUE	O
+155.jpg	352.00	AMOUNT
+155.jpg	AttacHEd documents	O
+155.jpg	201=	O
+156.jpg	INVOICE	O
+157.png	Love & Peonies	O
+157.png	OFFICIAL INVOICE	O
+157.png	ORDER #	O
+157.png	DATE	O
+157.png	PAYMENT	O
+157.png	123456	NUMB
+157.png	25-jan-19	DATE
+157.png	VENMO:	O
+157.png	+1123 412 12312	O
+157.png	PRODUCT	O
+157.png	PRICE	O
+157.png	QTY	O
+157.png	TOTAL	O
+157.png	Peonies Special Bouquet 2	O
+157.png	96	O
+157.png	96	O
+157.png	Peonies	O
+157.png	20	O
+157.png	Dusty Miller	O
+157.png	10	O
+157.png	Purple Wax Flower	O
+157.png	Teddy Bear	O
+157.png	Medium	O
+157.png	24	O
+157.png	24	O
+157.png	Deliver to: Maddie Anderson	O
+157.png	SUBTOTAL 120	O
+157.png	141 Saints Avenue	O
+157.png	#02-12	O
+157.png	DELIVERY	O
+157.png	20	O
+157.png	NY 12312	O
+157.png	TOTAL PRICE 140	AMOUNT
+157.png	Thank you for your	O
+157.png	+1123 123 1234	O
+157.png	WWipeoniesandlovecom	O
+157.png	hi@peoniesandlove com	O
+157.png	purchasel	O
+158.png	Invoice #123	NUMB
+158.png	51,582.60	AMOUNT
+160.jpg	Invoice No. INV-19-0053	NUMB
+160.jpg	Invoice Date 27/05/2019	DATE
+160.jpg	Due Date 10/06/2019	O
+160.jpg	A BUILDING	O
+160.jpg	COMPANY	O
+160.jpg	Issuer	O
+160.jpg	Customer	O
+160.jpg	Building Company	O
+160.jpg	Kate	O
+160.jpg	Marlborough Hill	O
+160.jpg	Carrow Road	O
+160.jpg	Harrow	O
+160.jpg	Norwich	O
+160.jpg	HAI 1UD	O
+160.jpg	NRI 1JE	O
+160.jpg	Reg: No:: 123456789	O
+160.jpg	VAT No. 333444555	O
+160.jpg	Description	O
+160.jpg	Quantity	O
+160.jpg	Unit	O
+160.jpg	Price	O
+160.jpg	Amount	O
+160.jpg	Floor tiles	O
+160.jpg	m2	O
+160.jpg	25.00	O
+160.jpg	700.00	O
+160.jpg	Square Polished Marble Mosaic Tiles	O
+160.jpg	298x298mm	O
+160.jpg	Wall tiles	O
+160.jpg	15.00	O
+160.jpg	300.00	O
+160.jpg	Marble Effect Tiles	O
+160.jpg	600x60Omm	O
+160.jpg	Wall tiles	O
+160.jpg	20.00	O
+160.jpg	200.00	O
+160.jpg	White Polished Porcelain	O
+160.jpg	G0Ox6oOmm	O
+160.jpg	Installing new cabinets	O
+160.jpg	hour	O
+160.jpg	16.00	O
+160.jpg	400.00	O
+160.jpg	Tiling	O
+160.jpg	hour	O
+160.jpg	16.00	O
+160.jpg	400.00	O
+160.jpg	Subtotal without VAT	O
+160.jpg	2,000.00	O
+160.jpg	VAT 2096 of 2,000.00	O
+160.jpg	400.00	O
+160.jpg	CIS Deduction -2096 of 800.00	O
+160.jpg	-160.00	O
+160.jpg	Total GBP	O
+160.jpg	2,240.00	AMOUNT
+160.jpg	Building Company	O
+160.jpg	Bank: 1234567	O
+160.jpg	Co. Reg: No: 123456789	O
+160.jpg	Marlborough Hill	O
+160.jpg	Harrow	O
+160.jpg	HAI IUD IBAN: GB29 NWBK 6016 1331 9268 19	O
+160.jpg	Phone	O
+160.jpg	234 567 890	O
+160.jpg	SWIFT: 112233	O
+160.jpg	Email	O
+160.jpg	Sort Code: 001122	O
+160.jpg	Website	O
+160.jpg	abuildingcompany co.uk	O
+160.jpg	Account No:: 33445566	O
+160.jpg	Account Holder: =	O
+160.jpg	Building Company	O
+160.jpg	Grey	O
+160.jpg	Grey	O
+160.jpg	Ultra	O
+162.png	Shop address line	O
+162.png	Shop address line	O
+162.png	Woo COMMERCE	O
+162.png	New York	O
+162.png	NY 10001	O
+162.png	Invoice: INV-000050-2016	NUMB
+162.png	Order Date: February 16, 2016	DATE
+162.png	Billing Address	O
+162.png	Shipping Address	O
+162.png	Shipping Method	O
+162.png	Tony Stark	O
+162.png	Tony Stark	O
+162.png	Flat Rate	O
+162.png	10880 Malibu Point	O
+162.png	10880 Malibu Point	O
+162.png	53.99	O
+162.png	Malibu,	O
+162.png	CA 90265	O
+162.png	Malibu	O
+162.png	CA 90265	O
+162.png	This	O
+162.png	Is the header information, can give customers additional order info	O
+162.png	SKU	O
+162.png	Product	O
+162.png	Quantity	O
+162.png	Price	O
+162.png	ship01211	O
+162.png	Ship_Your Idea	O
+162.png	S15.00	O
+162.png	ship-your-idea-2-	O
+162.png	Ship Your Idea	O
+162.png	2 1	O
+162.png	560 00 $28,50	O
+162.png	blue	O
+162.png	color: Blue	O
+162.png	thx 1138	O
+162.png	Woo_Album #3	O
+162.png	Subtotal:	O
+162.png	584	O
+162.png	Discount:	O
+162.png	-54,2	O
+162.png	Shipping:	O
+162.png	53.99 via Flat	O
+162.png	Rate	O
+162.png	Payment Method:	O
+162.png	Credit Card	O
+162.png	(Braintree)	O
+162.png	Refund: item no longer needed	O
+162.png	S28.50	O
+162.png	Total:	O
+162.png	$55.29	AMOUNT
+162.png	Coupon used:	O
+162.png	thanks	O
+162.png	Customer Details	O
+162.png	Email: tony@mailinator com	O
+162.png	Phone: 5558675309	O
+162.png	This is	O
+162.png	customer note	O
+162.png	Please make sure my order arrives!	O
+162.png	Return policy information,	O
+162.png	terms and conditions	O
+162.png	This is the footer information (additional shop information,	O
+162.png	links_	O
+162.png	etc.	O
+163.jpg	INVOICE	O
+163.jpg	Clieni Name	O
+163.jpg	"18 May ""16"	DATE
+163.jpg	E2468.00	AMOUNT
+167.jpg	Brand Name	O
+167.jpg	INVOICE	O
+167.jpg	Invoice to: Dwyane Clark	O
+167.jpg	Invoice#	O
+167.jpg	52148	NUMB
+167.jpg	24 Dummy Street Area	O
+167.jpg	Date	O
+167.jpg	1-2-2020	DATE
+167.jpg	Location	O
+167.jpg	Lorem Ipsum	O
+167.jpg	570xx59x	O
+167.jpg	SL_	O
+167.jpg	Item Description	O
+167.jpg	Price	O
+167.jpg	Qty:	O
+167.jpg	Total	O
+167.jpg	Lorem Ipsum Dolor	O
+167.jpg	S5o.00	O
+167.jpg	S5o.00	O
+167.jpg	Pellentesque id neque ligula	O
+167.jpg	S20.00	O
+167.jpg	$60.00	O
+167.jpg	Interdum	O
+167.jpg	et malesuada fames	O
+167.jpg	S10.00	O
+167.jpg	$20.00	O
+167.jpg	Vivamus volutpat faucibus	O
+167.jpg	s90.00	O
+167.jpg	$90.00	O
+167.jpg	Thank you for your business	O
+167.jpg	Payment Info:	O
+167.jpg	Sub Total:	O
+167.jpg	8220.00	O
+167.jpg	Account #:	O
+167.jpg	1234 5678 9012	O
+167.jpg	Tax:	O
+167.jpg	0.00%	O
+167.jpg	Alc Name:	O
+167.jpg	Lorem Ipsum	O
+167.jpg	Bank Details:	O
+167.jpg	Add your details	O
+167.jpg	Total:	O
+167.jpg	$220.00	AMOUNT
+167.jpg	Terms & Conditions	O
+167.jpg	Lorem	O
+167.jpg	dolor	O
+167.jpg	adlpiscing	O
+167.jpg	Authorised Sign	O
+167.jpg	0	O
+167.jpg	@iz3rf	O
+167.jpg	@iz3rf	O
+167.jpg	"@iz3r"""	O
+167.jpg	01z3	O
+174.jpg	Invoice to:	O
+174.jpg	INVOICE	O
+174.jpg	Dwyane Clark	O
+174.jpg	24 Dummmy Street Arer	O
+174.jpg	Invoice#	O
+174.jpg	52148	NUMB
+174.jpg	Location	O
+174.jpg	Date	O
+174.jpg	1-feb	DATE
+174.jpg	2020	DATE
+174.jpg	570xx59x	O
+174.jpg	Item Description	O
+174.jpg	Price	O
+174.jpg	Qty:	O
+174.jpg	Total	O
+174.jpg	Lorem Ipsum Dolor	O
+174.jpg	$50.00	O
+174.jpg	Pellentesque Id neque Iigula	O
+174.jpg	520.00	O
+174.jpg	560.00	O
+174.jpg	Interdum et malesuada fames	O
+174.jpg	510.00	O
+174.jpg	520.00	O
+174.jpg	Vivamus volutpat faucibus	O
+174.jpg	s90.00	O
+174.jpg	590.00	O
+174.jpg	Thank you	O
+174.jpg	Vout	O
+174.jpg	business	O
+174.jpg	Sub Total:	O
+174.jpg	5220.00	AMOUNT
+174.jpg	Tax:	O
+174.jpg	0.007	O
+174.jpg	Paymen	O
+174.jpg	Lorcm Ipsum	O
+174.jpg	Terms	O
+174.jpg	Conditions	O
+174.jpg	Fusce	O
+174.jpg	Authorised Sign	O
+174.jpg	VectorStock	O
+174.jpg	VectorStock com/21258477	O
+174.jpg	Into	O
+176.jpg	Invoice to:	O
+176.jpg	Dwyane Clark	O
+176.jpg	INVOICE	O
+176.jpg	24 Dummy Street Area,	O
+176.jpg	Location	O
+176.jpg	Lorem Ipsum	O
+176.jpg	570xx59x	O
+176.jpg	Brand Name	O
+176.jpg	Invoice#	O
+176.jpg	52148	NUMB
+176.jpg	Tagline Space HERE	O
+176.jpg	Date	O
+176.jpg	1-feb	DATE
+176.jpg	2020	O
+176.jpg	SL.	O
+176.jpg	Item Description	O
+176.jpg	Price	O
+176.jpg	Qty	O
+176.jpg	Total	O
+176.jpg	Lorem Ipsum Dolor	O
+176.jpg	$50.00	O
+176.jpg	S50.00	O
+176.jpg	Pellentesque id neque ligula	O
+176.jpg	520.00	O
+176.jpg	560.00	O
+176.jpg	Interdum et	O
+176.jpg	malesuada fames	O
+176.jpg	S10.00	O
+176.jpg	$20.00	O
+176.jpg	Vivamus volutpat faucibus	O
+176.jpg	S90.00	O
+176.jpg	s90.00	O
+176.jpg	Terms	O
+176.jpg	Conditions	O
+176.jpg	Sub Total:	O
+176.jpg	5220.00	O
+176.jpg	Lorem ipsuM	O
+176.jpg	oolor	O
+176.jpg	amet	O
+176.jpg	consectetur	O
+176.jpg	dipiscing	O
+176.jpg	elie.	O
+176.jpg	nrctium	O
+176.jpg	Tax:	O
+176.jpg	0.00%	O
+176.jpg	Total:	O
+176.jpg	$220.00	AMOUNT
+176.jpg	Payment Info:	O
+176.jpg	Account	O
+176.jpg	1234 5678 9012	O
+176.jpg	AIc Name:	O
+176.jpg	Lorem Ipsum	O
+176.jpg	Bank Details:	O
+176.jpg	Add your bank details	O
+176.jpg	Authorised	O
+176.jpg	Phone	O
+176.jpg	Address	O
+176.jpg	Website	O
+176.jpg	Thank you for your business	O
+176.jpg	0	O
+176.jpg	sign	O
+176.jpg	"@iz3rF"""	O
+184.jpg	INVOICE	O
+184.jpg	Brand Name	O
+184.jpg	Invoice to:	O
+184.jpg	Date	O
+184.jpg	Dwyane Clark	O
+184.jpg	Lorcm lozum Dclor	O
+184.jpg	550	O
+184.jpg	Pollentesquc	O
+184.jpg	Interdum	O
+184.jpg	viamus volutpj	O
+184.jpg	530	O
+184.jpg	390	O
+184.jpg	Thank Yju	O
+184.jpg	5220.00	O
+184.jpg	Total:	O
+186.jpg	Brand Name	O
+186.jpg	INVOICE	O
+186.jpg	Invoice to:	O
+186.jpg	Dwyane Clark	O
+186.jpg	Invoice#	O
+186.jpg	52148	NUMB
+186.jpg	24 Dummy Street Area_	O
+186.jpg	Locatlon	O
+186.jpg	Lorem Ipsum_	O
+186.jpg	Date	O
+186.jpg	2020	DATE
+186.jpg	570x*59x	O
+186.jpg	SL.	O
+186.jpg	Item Description	O
+186.jpg	Price	O
+186.jpg	Qty:	O
+186.jpg	Total	O
+186.jpg	Lorem Ipsum	O
+186.jpg	$50.00	O
+186.jpg	$50.00	O
+186.jpg	Pellentesque Id neque Iigula	O
+186.jpg	520.00	O
+186.jpg	560.00	O
+186.jpg	Interdum et malesuada fames	O
+186.jpg	510.00	O
+186.jpg	520.00	O
+186.jpg	Vivamus volutpat faucibus	O
+186.jpg	S90.00	O
+186.jpg	590.00	O
+186.jpg	Thank you for your business	O
+186.jpg	Sub Total:	O
+186.jpg	5220.00	AMOUNT
+186.jpg	Tax:	O
+186.jpg	0.007	O
+186.jpg	Payment Info:	O
+186.jpg	Total:	O
+186.jpg	$220.00	O
+186.jpg	Lccount	O
+186.jpg	121< 5678 9012	O
+186.jpg	Bink Dctalls:	O
+186.jpg	Terms	O
+186.jpg	Conditions	O
+186.jpg	conecctctu	O
+186.jpg	Jdipiscing	O
+186.jpg	Authorised Sign	O
+186.jpg	VectorStock	O
+186.jpg	VectorStock com/19833583	O
+187.jpg	Brand Name	O
+187.jpg	INVOICE	O
+187.jpg	Invoice	O
+187.jpg	Dwyane Clark	O
+187.jpg	Invoicet	O
+187.jpg	52146	NUMB
+187.jpg	Date	O
+187.jpg	Dtem Descriolion	O
+187.jpg	Prlce	O
+187.jpg	Totai	O
+187.jpg	Lctcn	O
+187.jpg	Ipsum Dolor	O
+187.jpg	ncquc IipuIz	O
+187.jpg	9220.0 0	O
+187.jpg	Total:	O
+187.jpg	5220.00	O
+188.jpg	Brand	AMOUNT
+188.jpg	Name	O
+188.jpg	INVOICE	O
+188.jpg	Invoice#	O
+188.jpg	52148	NUMB
+188.jpg	Date	O
+188.jpg	1-2-2020	DATE
+188.jpg	Invoice to: Dwyane Clark	O
+188.jpg	24 Dummy Street Area	O
+188.jpg	Location	O
+188.jpg	Lorem	O
+188.jpg	Ipsum	O
+188.jpg	570xx59x	O
+188.jpg	Item Description	O
+188.jpg	Price	O
+188.jpg	Qty:	O
+188.jpg	Total	O
+188.jpg	Lorem Ipsum Dolor	O
+188.jpg	550.00	O
+188.jpg	s50.00	O
+188.jpg	Pellentesque id	O
+188.jpg	neque	O
+188.jpg	Iigula	O
+188.jpg	520.00	O
+188.jpg	560.00	O
+188.jpg	Inte	O
+188.jpg	et malesuada fames	O
+188.jpg	S10.00	O
+188.jpg	520.00	O
+188.jpg	VIvamus volutpat fauclbus	O
+188.jpg	S90.00	O
+188.jpg	590.00	O
+188.jpg	Sub Total:	O
+188.jpg	5220.00	O
+188.jpg	Tax:	O
+188.jpg	0.007	O
+188.jpg	Payment Info:	O
+188.jpg	Total:	O
+188.jpg	S220.00	AMOUNT
+188.jpg	Terms	O
+188.jpg	Conditions	O
+188.jpg	dolor	O
+188.jpg	Authorised Sign	O
+188.jpg	Thank you for your business	O
+188.jpg	VectorStock	O
+188.jpg	VectorStock com/20920595	O
+188.jpg	dum	O
+190.jpg	INVOICE	O
+190.jpg	Brand Name	O
+190.jpg	Invoice#	O
+190.jpg	52148	NUMB
+190.jpg	Date	O
+190.jpg	2020	DATE
+190.jpg	Item	O
+190.jpg	Description	O
+190.jpg	Price	O
+190.jpg	Qty.	O
+190.jpg	Total	O
+190.jpg	Lorem Ipsum	O
+190.jpg	Dolor	O
+190.jpg	S50.00	O
+190.jpg	S50.00	O
+190.jpg	Pellentesque id neque ligula	O
+190.jpg	520.00	O
+190.jpg	S60.00	O
+190.jpg	Interdum et malesuada fames	O
+190.jpg	S10.00	O
+190.jpg	S20.00	O
+190.jpg	vivamus volutpat faucibus	O
+190.jpg	S90.00	O
+190.jpg	S90.00	O
+190.jpg	Invoice to:	O
+190.jpg	Payment Info:	O
+190.jpg	Sub Total:	O
+190.jpg	5220.00	O
+190.jpg	Dwyane Clark	O
+190.jpg	Account	O
+190.jpg	Tax:	O
+190.jpg	0.007	O
+190.jpg	Lorem Ipqum	O
+190.jpg	Bank	O
+190.jpg	Add Your	O
+190.jpg	Total:	O
+190.jpg	$220.00	AMOUNT
+190.jpg	Terms	O
+190.jpg	Conditions	O
+190.jpg	Thank you for your business	O
+190.jpg	Authorised Sign	O
+190.jpg	VectorStock	O
+190.jpg	VectorStock.com/22270328	O
+193.jpg	Brand Name	O
+193.jpg	HER E	O
+193.jpg	INVOICE	O
+193.jpg	Invoice to:	O
+193.jpg	Dwyane Clark	O
+193.jpg	Invoice#	O
+193.jpg	52148	NUMB
+193.jpg	26 Dummy Street Area,	O
+193.jpg	Location, Lorem Ipsum,	O
+193.jpg	Date	O
+193.jpg	1-2-2020	DATE
+193.jpg	570xx59x	O
+193.jpg	SL.	O
+193.jpg	Item Description	O
+193.jpg	Price	O
+193.jpg	Qty:	O
+193.jpg	Total	O
+193.jpg	Lorem Ipsum Dolor	O
+193.jpg	S50.00	O
+193.jpg	S50.00	O
+193.jpg	Pellentesque id neque ligula	O
+193.jpg	520.00	O
+193.jpg	560.00	O
+193.jpg	Interdum et malesuada fames	O
+193.jpg	S10.00	O
+193.jpg	S20.00	O
+193.jpg	Vivamus volutpat faucibus	O
+193.jpg	890.00	O
+193.jpg	S90.00	O
+193.jpg	Thank you for	O
+193.jpg	business	O
+193.jpg	Sub Total:	O
+193.jpg	S220.00	AMOUNT
+193.jpg	Tax:	O
+193.jpg	0.00%	O
+193.jpg	Terms & Conditions	O
+193.jpg	Lorem ipsum dolor sit amet	O
+193.jpg	Total:	O
+193.jpg	S220.00	O
+193.jpg	elit_	O
+193.jpg	Fusce dignissim pretium consectetur.	O
+193.jpg	Payment Info:	O
+193.jpg	Account #:	O
+193.jpg	1234 5678 9012	O
+193.jpg	A/C Name:	O
+193.jpg	Lorem Ipsum	O
+193.jpg	Bank Details:	O
+193.jpg	Add your bank details	O
+193.jpg	Authorised Sign	O
+193.jpg	Phone #	O
+193.jpg	Address	O
+193.jpg	Website	O
+193.jpg	Jdepositphotos	O
+193.jpg	Image ID: 182748468	O
+193.jpg	WWW.depositphotoscom	O
+193.jpg	tos	O
+193.jpg	X	O
+193.jpg	your	O
+194.jpg	Your Company Name	O
+194.jpg	your company website	O
+194.jpg	LOGo	O
+194.jpg	COMPANY	O
+194.jpg	123 Your Street Address	O
+194.jpg	company emall	O
+194.jpg	Your Company Slogan	O
+194.jpg	City	O
+194.jpg	INVOICE: #100123	NUMB
+194.jpg	Invoice	O
+194.jpg	DATE ISSUED: 11.12.2017	DATE
+194.jpg	DUE DATE: 11.12.2077	O
+194.jpg	ISSUED TO	O
+194.jpg	AMOUNT	O
+194.jpg	Some Company	O
+194.jpg	123 Client's Street	O
+194.jpg	450	O
+194.jpg	Somewhere	O
+194.jpg	OO.OOO.OOOO	O
+194.jpg	Project Name	O
+194.jpg	Description	O
+194.jpg	Qty	O
+194.jpg	Rate	O
+194.jpg	Subtotal 	O
+194.jpg	Lorem ipsum dolor sit amet	O
+194.jpg	$75	O
+194.jpg	$ 150.00	O
+194.jpg	Lorem ipsum dolor sit amet	O
+194.jpg	$75	O
+194.jpg	75.00	O
+194.jpg	Lorem ipsum, dolor	O
+194.jpg	$75	O
+194.jpg	$ 225.00	O
+194.jpg	Subtotal	O
+194.jpg	$ 450.00	O
+194.jpg	Tax 0.00%	O
+194.jpg	$0.00	O
+194.jpg	TOTAL	AMOUNT
+194.jpg	$ 450.00	O
+194.jpg	Payment Information	O
+194.jpg	Cheque	O
+194.jpg	PayPal	O
+194.jpg	Other	O
+194.jpg	Lorem Ipsum dolor sit	O
+194.jpg	Lorem	O
+194.jpg	Lorem Ipsum dolor sit	O
+194.jpg	Amet consectetur adipiscing	O
+194.jpg	Amet cansectetur adipiscing	O
+194.jpg	Amet consectetur adipiscing	O
+194.jpg	Elit	O
+194.jpg	Lorem ipsum dolor	O
+194.jpg	Elit	O
+194.jpg	Here goes some note text if you dont need this just delete it, Lorem Ipsum dolor slt amet	O
+194.jpg	elusmod tempor incididunt ut labore et dolore magna allqua.Lorem ipsum dolor sit anet	O
+194.jpg	THANK YQUI	O
+194.jpg	0	O
+194.jpg	"@Iz3rf"""	O
+194.jpg	Your	O
+194.jpg	"@iz3rf"""	O
+194.jpg	"@iz3rf"""	O
+194.jpg	123	O
+198.jpg	INVOICE	O
+198.jpg	Invoice#	O
+198.jpg	52148	O
+198.jpg	Total:	O
+198.jpg	6220.00	AMOUNT
+198.jpg	Date	O
+198.jpg	1-feb	DATE
+198.jpg	2020	DATE
+198.jpg	Invoice to: Dwyane Clark	O
+198.jpg	24 Dummy Street Area, Location, Lorem Ipsum, S70xx59x	O
+198.jpg	SL_	O
+198.jpg	Item Description	O
+198.jpg	Price	O
+198.jpg	Qty_	O
+198.jpg	Total	O
+198.jpg	Lorem Ipsum Dolor	O
+198.jpg	s50.00	O
+198.jpg	$50.00	O
+198.jpg	Pellentesque id	O
+198.jpg	neque ligula	O
+198.jpg	$20.00	O
+198.jpg	$60.00	O
+198.jpg	Interdum et malesuada fames	O
+198.jpg	$10.00	O
+198.jpg	$20.00	O
+198.jpg	Vivamus volutpat faucibus	O
+198.jpg	s90.00	O
+198.jpg	s90.00	O
+198.jpg	Payment Info:	O
+198.jpg	Sub Total:	O
+198.jpg	S220.00	O
+198.jpg	Account #:	O
+198.jpg	1234 5678 9012	O
+198.jpg	Tax:	O
+198.jpg	0.00%	O
+198.jpg	Alc Name:	O
+198.jpg	Lorem Ipsum	O
+198.jpg	Bank Details:	O
+198.jpg	Add your details	O
+198.jpg	Total:	O
+198.jpg	S220.00	AMOUNT
+198.jpg	Terms & Conditions	O
+198.jpg	Lorem ipsum dolor sit amet, consectetur adipiscing elit	O
+200.jpg	CREATIVE MEDIA	O
+200.jpg	INVOICE	O
+200.jpg	Unknown Area	O
+200.jpg	Larem	O
+200.jpg	Ipsum Dolor,	O
+200.jpg	8,45E+147	O
+200.jpg	Bill to: Dwyane Clark	O
+200.jpg	Invoice#	O
+200.jpg	52148	NUMB
+200.jpg	24 Dummy Street Area	O
+200.jpg	Lorem Ipsum	O
+200.jpg	Date	O
+200.jpg	1-feb	DATE
+200.jpg	2020	O
+200.jpg	570xx59x	O
+200.jpg	product descRIPTION	O
+200.jpg	price	O
+200.jpg	TOTAL	O
+200.jpg	Lorem Ipsum Dolor	O
+200.jpg	s50,00	O
+200.jpg	5250	O
+200.jpg	Pellentesque id neque ligula	O
+200.jpg	Si0.00	O
+200.jpg	siO.00	O
+200.jpg	Interdum	O
+200.jpg	malesuada fames	O
+200.jpg	S25.00	O
+200.jpg	S75.00	O
+200.jpg	Vivamus volutpat faucibus	O
+200.jpg	s40.00	O
+200.jpg	S80.00	O
+200.jpg	Subtotal	O
+200.jpg	5415.00	O
+200.jpg	days ahter	O
+200.jpg	Tax Rate	O
+200.jpg	Lerem Ipsum dolon	O
+200.jpg	TOTAL	O
+200.jpg	5415.00	AMOUNT
+200.jpg	VectorStock	O
+200.jpg	VectorStock.com/16969047	O
+201.jpg	Your Company Name	O
+201.jpg	your company website	O
+201.jpg	123 Your Street Address	O
+201.jpg	LOGO	O
+201.jpg	your company email	O
+201.jpg	City	O
+201.jpg	1.234.567.890	O
+201.jpg	INVOICE: #100123	NUMB
+201.jpg	Invoice	O
+201.jpg	DATE ISSUED: 11.12.2017	DATE
+201.jpg	DUE DATE: 11,12.2077	O
+201.jpg	ISSUED TO	O
+201.jpg	AMOUNT	O
+201.jpg	Some Company	O
+201.jpg	123 Client's Street	O
+201.jpg	450.00	O
+201.jpg	Somewhere	O
+201.jpg	Project Name	O
+201.jpg	Dercription	O
+201.jpg	Rate	O
+201.jpg	Subtotal	O
+201.jpg	Lorem ipsum dolor sit amet	O
+201.jpg	575	O
+201.jpg	$ 150.00	O
+201.jpg	Lorem ipsum dolor sit amet	O
+201.jpg	575	O
+201.jpg	$ 75,00	O
+201.jpg	Subtotal	O
+201.jpg	$ 450.00	O
+201.jpg	Tax 0.00%	O
+201.jpg	$ 0.00	O
+201.jpg	TOTAL	O
+201.jpg	$ 450.00	AMOUNT
+201.jpg	Payment Information	O
+201.jpg	Cheque	O
+201.jpg	PayPal	O
+201.jpg	Other	O
+201.jpg	Lorem ipsum dolor sit	O
+201.jpg	IpsuM	O
+201.jpg	dolor sit amet	O
+201.jpg	Lorem ipsum dolor sit	O
+201.jpg	Amet consectetur adipiscing	O
+201.jpg	Amet consectetur adipiscing	O
+201.jpg	Amet consectetur adipiscing	O
+201.jpg	Elit	O
+201.jpg	Lorem ipsum dolor	O
+201.jpg	Elit	O
+201.jpg	Here goes sore note text ifyou don't need this just delete it. Lorem ipsum dolor sit amet	O
+201.jpg	psumip	O
+201.jpg	elusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet	O
+201.jpg	THANK YOU FOR YOUR BUSINESSI	O
+201.jpg	"Brf"""	O
+201.jpg	"@Iz3rf"""	O
+201.jpg	"@iz3rf"""	O
+201.jpg	"@iz3rf"""	O
+201.jpg	Lorem	O
+201.jpg	123	O
+202.jpg	Brand Name	O
+202.jpg	INVOICE	O
+202.jpg	Invoice#	O
+202.jpg	52148	NUMB
+202.jpg	Date	O
+202.jpg	2020	DATE
+202.jpg	Invoice to: Dwyane Clark	O
+202.jpg	Payment Info:	O
+202.jpg	24 Dummy Street Aroz.	O
+202.jpg	1234 5676 9012	O
+202.jpg	Locatlon	O
+202.jpg	Lorem ipium	O
+202.jpg	Itom	O
+202.jpg	Dcscription	O
+202.jpg	Pricc	O
+202.jpg	Qtya	O
+202.jpg	Total	O
+202.jpg	S50.00	O
+202.jpg	Pellentesque	O
+202.jpg	neque	O
+202.jpg	S60.00	O
+202.jpg	520-DC	O
+202.jpg	Vvamus	O
+202.jpg	S90.00	O
+202.jpg	590.00	O
+202.jpg	Thank You	O
+202.jpg	Your	O
+202.jpg	Sub Total	O
+202.jpg	5220	O
+202.jpg	Tefms	O
+202.jpg	Condltlons	O
+202.jpg	Total:	O
+202.jpg	5220.00	AMOUNT
+202.jpg	Authorised Sign	O
+202.jpg	Mgula	O
+207.jpg	CREATIVE MEDIA	O
+207.jpg	Y0U R	O
+207.jpg	INVOICE	O
+207.jpg	Unknown Area_	O
+207.jpg	Lorem	O
+207.jpg	Ipsum Dolor,	O
+207.jpg	845xx145	O
+207.jpg	Bill to:	O
+207.jpg	Dwyane Clark	O
+207.jpg	QTY	O
+207.jpg	PRODUCT DESCRIPTION	O
+207.jpg	PRICE	O
+207.jpg	TOTAL	O
+207.jpg	24 Dummy Street Area	O
+207.jpg	Location	O
+207.jpg	Lorem Ipsum	O
+207.jpg	570xx59x	O
+207.jpg	Lorem Ipsum Dolor	O
+207.jpg	550.00	O
+207.jpg	5250.00	O
+207.jpg	Invoice #	O
+207.jpg	52148	NUMB
+207.jpg	Date	O
+207.jpg	1-feb	DATE
+207.jpg	2020	DATE
+207.jpg	Pellentesque id neque ligula	O
+207.jpg	siO.00	O
+207.jpg	siO.00	O
+207.jpg	Interdum et malesuada fames	O
+207.jpg	525.00	O
+207.jpg	S75.00	O
+207.jpg	Vivamus volutpat faucibus	O
+207.jpg	540.00	O
+207.jpg	s80.00	O
+207.jpg	Subtotal	O
+207.jpg	5415.00	O
+207.jpg	Tax Rate	O
+207.jpg	0.00%	O
+207.jpg	TOTAL	O
+207.jpg	9415.00	AMOUNT
+207.jpg	Bank Transfer	O
+207.jpg	Add your bank details,	O
+207.jpg	THANK YOU FOR YOUR BUSINESS	O
+207.jpg	Lorem ipsum dolor.	O
+207.jpg	Payment Is due max	O
+207.jpg	days after Involce wlrhout deductlona	O
+207.jpg	Signature	O
+207.jpg	0	O
+207.jpg	@iz3r6	O
+207.jpg	0	O
+207.jpg	"@iz3rf"""	O
+209.jpg	ck	O
+209.jpg	IStOCk	O
+209.jpg	8Stock	O
+209.jpg	AStc	O
+209.jpg	Imdigjes	O
+209.jpg	by Getty Images'	O
+209.jpg	INVOICE	O
+209.jpg	Brand	O
+209.jpg	Name	O
+209.jpg	Invoice#	O
+209.jpg	52148	NUMB
+209.jpg	Invoice to:	O
+209.jpg	Date	O
+209.jpg	1-feb	DATE
+209.jpg	2020	DATE
+209.jpg	Dwyane Clark	O
+209.jpg	24 Dummy Street Area	O
+209.jpg	Location,	O
+209.jpg	Lorem Ipsum	O
+209.jpg	AStodk	O
+209.jpg	Stocl:	O
+209.jpg	Sttock	O
+209.jpg	Jy Gelty Images	O
+209.jpg	Geily Imdges	O
+209.jpg	SL.	O
+209.jpg	Item Description	O
+209.jpg	Price	O
+209.jpg	Qty.	O
+209.jpg	Total	O
+209.jpg	Lorem Ipsum Dolor	O
+209.jpg	550.00	O
+209.jpg	S50.00	O
+209.jpg	Pellentesque id neque ligula	O
+209.jpg	S20.00	O
+209.jpg	S60.00	O
+209.jpg	ck	O
+209.jpg	3S)7 Interdum et	O
+209.jpg	malesuada fames	O
+209.jpg	510.00	O
+209.jpg	520.00	O
+209.jpg	AStc	O
+209.jpg	Imcigjes	O
+209.jpg	Vivamus volutpat faucibus	O
+209.jpg	590.00	O
+209.jpg	S90.00	O
+209.jpg	AStodk	O
+209.jpg	Thank you for your business	O
+209.jpg	Sub Total:	O
+209.jpg	5220.00	O
+209.jpg	ASitock	O
+209.jpg	Gelty Imdg es	O
+209.jpg	Payment Infoi	O
+209.jpg	0.00	O
+209.jpg	1214 5678 9012	O
+209.jpg	Total:	O
+209.jpg	S220.00	AMOUNT
+209.jpg	Terms	O
+209.jpg	Conailions	O
+209.jpg	pralim	O
+209.jpg	Authorised sign	O
+209.jpg	ck	O
+209.jpg	Siock	O
+209.jpg	xock	O
+209.jpg	Imcigjes	O
+209.jpg	"by Getty Images"""	O
+209.jpg	Jy Getty Images	O
+209.jpg	1028575880	O
+209.jpg	.	O
+215.jpg	Your Company	O
+215.jpg	Odoo	O
+215.jpg	1725 Slough Ave	O
+215.jpg	demo	O
+215.jpg	Scranton	O
+215.jpg	Mobile: 89665 222	O
+215.jpg	Email: info@yourcompany example.com	O
+215.jpg	Invoice To:	O
+215.jpg	Invoice No:	O
+215.jpg	INV/2016/0013	NUMB
+215.jpg	Camptocamp, Ayaan Agarwal	O
+215.jpg	93, Press Avenue, demo	O
+215.jpg	Invoice Date:	O
+215.jpg	20-4-2016	DATE
+215.jpg	Le Bourget du Lac, 73377, France	O
+215.jpg	SO:	O
+215.jpg	SO013	O
+215.jpg	Email:	O
+215.jpg	Order Date:	O
+215.jpg	20-4-2016	O
+215.jpg	ayaan agarwal@bestdesigners example.com	O
+215.jpg	Due Date:	O
+215.jpg	31-5-2016	O
+215.jpg	Sr.	O
+215.jpg	Description	O
+215.jpg	Quantity	O
+215.jpg	Unit Price	O
+215.jpg	Taxes	O
+215.jpg	Price	O
+215.jpg	[A2325] iPad Retina Display	O
+215.jpg	1.000	O
+215.jpg	800.40	O
+215.jpg	$ 800.40	O
+215.jpg	7.9-inch (diagonal) LED-backlit	O
+215.jpg	Dual-core A5 with quad-core graphics	O
+215.jpg	FaceTime HD Camera, 1.2 MP Photos	O
+215.jpg	2	O
+215.jpg	[CARD] Graphics Card	O
+215.jpg	1.000	O
+215.jpg	885.00	O
+215.jpg	885.00	O
+215.jpg	3	O
+215.jpg	[PRINT] Printer	O
+215.jpg	1.000	O
+215.jpg	4,410.00	O
+215.jpg	$ 4,410.00	O
+215.jpg	SubTotal	O
+215.jpg	$ 6,095.40	O
+215.jpg	Taxes	O
+215.jpg	$ $ 0.00	O
+215.jpg	TOTAL	O
+215.jpg	$ 6,095.40	AMOUNT
+215.jpg	Payment History	O
+215.jpg	Sr.	O
+215.jpg	Date	O
+215.jpg	Method	O
+215.jpg	Ref:	O
+215.jpg	Amount	O
+215.jpg	20-4-2016	O
+215.jpg	Cash	O
+215.jpg	2,000.00	O
+215.jpg	2	O
+215.jpg	20-4-2016	O
+215.jpg	Bank	O
+215.jpg	95.40	O
+215.jpg	Payment Term: End Of Following Month	O
+215.jpg	Comment: Invoice Comment For Test	O
+215.jpg	Fiscal Position Remark: FY 2016	O
+215.jpg	Phone: +1 555 123 8069	O
+215.jpg	Email: info@yourcompany example.com	O
+215.jpg	Website: http:/IWW.example.com	O
+215.jpg	Page:	O
+215.jpg	1	O
+220.png	Invoice	O
+220.png	From	O
+220.png	For	O
+220.png	Jonn Smith	O
+220.png	Client Name	O
+220.png	name@companynamecom	O
+220.png	name@customercom	O
+220.png	12 Company Street	O
+220.png	34 Customer Streer	O
+220.png	City	O
+220.png	City	O
+220.png	Country	O
+220.png	Country	O
+220.png	Number	O
+220.png	#INV2241	NUMB
+220.png	Date	O
+220.png	28-jul-17	DATE
+220.png	Terms	O
+220.png	Days	O
+220.png	Due	O
+220.png	3-aug-17	O
+220.png	Description	O
+220.png	Quantity	O
+220.png	Price	O
+220.png	Amount	O
+220.png	Product A	O
+220.png	10.00	O
+220.png	520.00	O
+220.png	$200.00	O
+220.png	Item Description	O
+220.png	Item Fee	O
+220.png	1.00	O
+220.png	59.99	O
+220.png	{9.99	O
+220.png	Item Description	O
+220.png	Subrotal	O
+220.png	5209.99	O
+220.png	Tax (598)	O
+220.png	10.50	O
+220.png	Total	O
+220.png	8220.49	O
+220.png	Balance Due (CAD)	O
+220.png	$220.49	O
+220.png	Notes	AMOUNT
+220.png	Thank you for your business_	O
+222.jpg	INVOICE TEMPLATE	O
+222.jpg	Company Name	O
+222.jpg	DATE	O
+222.jpg	123 Main Street	O
+222.jpg	03/15/18	DATE
+222.jpg	Hamilton	O
+222.jpg	INVOICE NO:	O
+222.jpg	(321) 456-7890	O
+222.jpg	A246	NUMB
+222.jpg	Emall Address	O
+222.jpg	customer No	O
+222.jpg	Point 	O
+222.jpg	Contact	O
+222.jpg	1144	O
+222.jpg	BILL T0	O
+222.jpg	ATTN: Name	O
+222.jpg	Dep:	O
+222.jpg	ATTN: Name	O
+222.jpg	Dept	O
+222.jpg	Company Name	O
+222.jpg	Company Name	O
+222.jpg	123 Main Street	O
+222.jpg	123 Main Street	O
+222.jpg	Hamiton	O
+222.jpg	OH 44416	O
+222.jpg	Hamilton	O
+222.jpg	OH 44416	O
+222.jpg	(321) 456-/890	O
+222.jpg	(321) 456-7890	O
+222.jpg	Email Address	O
+222.jpg	Ship VL	O
+222.jpg	Fob	O
+222.jpg	TeRMB	O
+222.jpg	MEXNO	O
+222.jpg	QTy	O
+222.jpg	UnIt price	O
+222.jpg	TOTAL	O
+222.jpg	A11i	O
+222.jpg	Women'$ Tall	O
+222.jpg	S10.00	O
+222.jpg	S100.O0	O
+222.jpg	B222	O
+222.jpg	Men' 5 Tall -	O
+222.jpg	S20.00	O
+222.jpg	C333	O
+222.jpg	Children's	O
+222.jpg	S5.00	O
+222.jpg	S50.00	O
+222.jpg	D444	O
+222.jpg	Men' 5	O
+222.jpg	S10.00	O
+222.jpg	S50.00	O
+222.jpg	SO.OO	O
+222.jpg	SO.OO	O
+222.jpg	SO.OO	O
+222.jpg	SO.OO	O
+222.jpg	SO.OO	O
+222.jpg	Remarks	O
+222.jpg	Instructions:	O
+222.jpg	SUBTOTAL	O
+222.jpg	S300.00	O
+222.jpg	TAX	O
+222.jpg	3.809	O
+222.jpg	511.40	O
+222.jpg	SHIPPINGIHANDLING	O
+222.jpg	530.00	O
+222.jpg	Picasc make check payablo	O
+222.jpg	Your Comoany Namc.	O
+222.jpg	OTHER	O
+222.jpg	S15.00	O
+222.jpg	THANK YOU	O
+222.jpg	TOTAL	O
+222.jpg	S356.40	AMOUNT
+222.jpg	Name	O
+222.jpg	Email Address	O
+222.jpg	www-yourwebaddress_com	O
+223.jpg	NOTARY INVOICE TEMPLATE	O
+223.jpg	Your Business Name	O
+223.jpg	DATE	O
+223.jpg	123 Main Street	O
+223.jpg	03/15/18	DATE
+223.jpg	Hamilton	O
+223.jpg	(321) 456-7890	O
+223.jpg	INVOICE NO_	O
+223.jpg	email@address com	O
+223.jpg	A246	NUMB
+223.jpg	BILL TO	O
+223.jpg	DATE PAYMENT DUE	O
+223.jpg	AITN: Name	O
+223.jpg	Dep:	O
+223.jpg	04/15/18	O
+223.jpg	Ccmpany Name	O
+223.jpg	456 Main Street	O
+223.jpg	Hamiton OH 44416	O
+223.jpg	(4563	O
+223.jpg	321-7890	O
+223.jpg	PROJECT	O
+223.jpg	SERVICE DETAILS	O
+223.jpg	Provide brief overview of	O
+223.jpg	ay pertinent infonation regarding tne project	O
+223.jpg	applicable:	O
+223.jpg	DATE	O
+223.jpg	DESCRIPTION OF WORK	O
+223.jpg	HOURS	O
+223.jpg	RATE	O
+223.jpg	TOTAL	O
+223.jpg	3-11-2018	O
+223.jpg	Dccuments 1-5	O
+223.jpg	S75.00	O
+223.jpg	S187.50	O
+223.jpg	3/122018	O
+223.jpg	Other	O
+223.jpg	S50.00	O
+223.jpg	S150.00	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	SO.OO	O
+223.jpg	REMARKS / INSTRUCTIONS	O
+223.jpg	SUBTOTAL	O
+223.jpg	S337.50	O
+223.jpg	TAX RATE	O
+223.jpg	6.45%	O
+223.jpg	521.77	O
+223.jpg	Make cnecks payable t0	O
+223.jpg	TOTAL	O
+223.jpg	S359.27	AMOUNT
+223.jpg	THANK YOU	O
+223.jpg	picasc conlact	O
+223.jpg	Name	O
+223.jpg	Email Address	O
+223.jpg	www yourwebaddress com	O
+228.png	FrOM	O
+228.png	Your name	O
+228.png	your@mail.com	O
+228.png	Your fancy street	O
+228.png	The Big Apple	O
+228.png	TO	O
+228.png	Awesome client	O
+228.png	Invoice #123	NUMB
+228.png	Invoice description	O
+228.png	The Big Apple	O
+228.png	[Goto File > Make a Copy to Create Your Qwn Version]	O
+228.png	ANIVOICE DATE	O
+228.png	SERUCE DESCRIPTION	O
+228.png	OTY	O
+228.png	RATE	O
+228.png	AMOUNT	O
+228.png	Internet bills	O
+228.png	1	O
+228.png	$82.5	O
+228.png	$82.5	O
+228.png	TAX (596)	O
+228.png	TOTAL	O
+228.png	04/22/19	DATE
+228.png	S150	O
+228.png	S62.7	O
+228.png	1500.00	AMOUNT
+228.png	PAY INVOICE ONLINE	O
+228.png	PAYMENT INFORMATION	O
+228.png	Bank account number or PayPal account	O
+228.png	04/22/19	O
+228.png	(Add a Iink to your online	O
+228.png	should be added here:	O
+228.png	payment method here:)	O
+23.png	IMAGINETIME	O
+23.png	Integrated Pracllce Management	O
+23.png	PO Box 667	O
+23.png	toll free: 877-520-1525	O
+23.png	Rulherfordlon NC	O
+23.png	Castle Realty	O
+23.png	Invoices: 6499	NUMB
+23.png	1441 $. Ocean Blvd	O
+23.png	Date: 6/16/2017	O
+23.png	Boca	O
+23.png	33432	O
+23.png	Monthly Accounting Services for December	O
+23.png	S200.00	O
+23.png	Payroll Services	O
+23.png	150.00	O
+23.png	Total Charges:	O
+23.png	350.00	O
+23.png	Balance Fonward From Last Invoice	O
+23.png	6,887.50	O
+23.png	04/15/17	O
+23.png	Pmt	O
+23.png	Ooo.Co)	O
+23.png	Pror Balance (Credit) Before this Invoice:	O
+23.png	5,887.50	O
+23.png	Total Balance Due	O
+23.png	623150	AMOUNT
+23.png	THANK YOU FOR USING IMAGINETIMEI	O
+23.png	Date: 6/16/2017	DATE
+23.png	In oice=	O
+23.png	Castle	O
+23.png	Imaginelime Smaller	O
+23.png	431	O
+23.png	Main Street	O
+23.png	Rutherfordton NC 28139	O
+23.png	Fnone (877) 520-1525	O
+23.png	20139	O
+23.png	cas	O
+230.jpg	INVOICE #	O
+230.jpg	1264	O
+230.jpg	Downloadable Invoice Template	O
+230.jpg	FROM	O
+230.jpg	John Doe	O
+230.jpg	Sample Client	O
+230.jpg	165 Eleventh Street	O
+230.jpg	Sample Client	O
+230.jpg	Apt 2	O
+230.jpg	San Francisco	O
+230.jpg	California, 95376	O
+230.jpg	sampleclientahellobonsalcom	O
+230.jpg	United States	O
+230.jpg	ISSUED ON	O
+230.jpg	DUEON	O
+230.jpg	Aug 22,2020	DATE
+230.jpg	Sep 22,2020	O
+230.jpg	ITEM NAME	O
+230.jpg	UNITS	O
+230.jpg	RATE	O
+230.jpg	TOTAL	O
+230.jpg	Professional Services	O
+230.jpg	565.00	O
+230.jpg	S1,105.00	O
+230.jpg	Other	O
+230.jpg	Services	O
+230.jpg	540.00	O
+230.jpg	5480.00	O
+230.jpg	Subtotal	O
+230.jpg	51,585.00	O
+230.jpg	Total Amount	O
+230.jpg	S1,585.00 (USD)	AMOUNT
+230.jpg	The client can pay via wire transfer 01 mailed check:	O
+230.jpg	The cllent wlll not pay the processing fees for an online payment_	O
+230.jpg	of 2	O
+232.png	[Company Name]	O
+232.png	INVOICE	O
+232.png	CETE	O
+232.png	[245]	NUMB
+232.png	IName]	O
+232.png	Comcary Nama]	O
+232.png	[Frore]	O
+232.png	Nem	O
+232.png	Thank you forycur business	O
+232.png	TOTAL	O
+232.png	551,56	AMOUNT
+232.png	Ifyou rav	O
+232.png	[Nana	O
+232.png	@3w	O
+234.png	Invoice	O
+234.png	BILL To	O
+234.png	INVOICE	O
+234.png	NUMBER	O
+234.png	789	NUMB
+234.png	PAYMENT	O
+234.png	STATUS	O
+234.png	Pending	O
+234.png	Customer Name	O
+234.png	1234 Main	O
+234.png	ISSUE	O
+234.png	DATE	O
+234.png	8.28.17	DATE
+234.png	Street	O
+234.png	CUSTOMER ID	O
+234.png	ABCD	O
+234.png	Customer Company Name	O
+234.png	Suite 100	O
+234.png	1.112.223.456	O
+234.png	Philadelphia	O
+234.png	WORK ORDER #	O
+234.png	123465	O
+234.png	DESCRIPTION	O
+234.png	HOURS	O
+234.png	RATE	O
+234.png	AMOUNT	O
+234.png	Item name and description goes here	O
+234.png	3	O
+234.png	S25.00	O
+234.png	S75.00	O
+234.png	Item name and description goes here	O
+234.png	S25.00	O
+234.png	S25.00	O
+234.png	Item name and description goes here	O
+234.png	2	O
+234.png	S25.00	O
+234.png	S50.00	O
+234.png	Item name and description goes here	O
+234.png	3	O
+234.png	S33.00	O
+234.png	s99.00	O
+234.png	Item name and description goes here	O
+234.png	833.00	O
+234.png	533.00	O
+234.png	SUBTOTAL	O
+234.png	S282.00	O
+234.png	PROJECT NOTES	O
+234.png	DISCOUNT (10%	O
+234.png	S28.20	O
+234.png	This is a great	O
+234.png	to add	O
+234.png	personalized thank you	O
+234.png	note to your client:	O
+234.png	S258.8	AMOUNT
+234.png	TOTAL	O
+234.png	QUESTIONS?	O
+234.png	Please contact [Name] at [Phone Number]	O
+234.png	or [Email Address]:	O
+234.png	Thank you for your	O
+234.png	businessl	O
+234.png	PAYMENT	O
+234.png	DUE BY: 9.28.17	O
+234.png	1234 Main Street	O
+234.png	Company	O
+234.png	Philadelphia, PA 19147	O
+234.png	1.112.223.333	O
+234.png	SampleCompany@Sample.com	O
+234.png	Name	O
+234.png	SampleCompany com	O
+234.png	Get paid faster_with Invoice Quickly	O
+234.png	InvoiceQuickly	O
+234.png	spot	O
+236.jpg	Your Company Nama	O
+236.jpg	504-555-1234	O
+236.jpg	123 Your Steal	O
+236.jpg	Cily	O
+236.jpg	INVOICE	O
+236.jpg	younwedsile	O
+236.jpg	Biled To	O
+236.jpg	Invoio Numbe	O
+236.jpg	Invocu Tolal	O
+236.jpg	Client Nama	O
+236.jpg	1	NUMB
+236.jpg	Slreal Address	O
+236.jpg	84520.00	O
+236.jpg	County	O
+236.jpg	ZIP CODE	O
+236.jpg	21-8-2016	DATE
+236.jpg	Descnption	O
+236.jpg	Unit Cost	O
+236.jpg	@ty / Hr Rate	O
+236.jpg	Amount	O
+236.jpg	Your Ilem Name	O
+236.jpg	S10d0	O
+236.jpg	Ilem Nama	O
+236.jpg	Your Ilem Nama	O
+236.jpg	Your Ilem Name	O
+236.jpg	Subtotal	O
+236.jpg	Tax	O
+236.jpg	5520	O
+236.jpg	Total	O
+236.jpg	3520.00	AMOUNT
+236.jpg	Invoco Tonig	O
+236.jpg	Ex. Pleasa invoce Dy_	O
+236.jpg	Amount Due (USD)	O
+236.jpg	Yoji	O
+237.jpg	Invoice	O
+237.jpg	Company Name	O
+237.jpg	Acdress line	O
+237.jpg	Accrress line 2	O
+237.jpg	City, Postcode	O
+237.jpg	Phone: 1234 567 890	O
+237.jpg	Invoice Date:	O
+237.jpg	18-3-2021	DATE
+237.jpg	Invoice Number:	O
+237.jpg	1234	NUMB
+237.jpg	Client Reference:	O
+237.jpg	Purchase Order:	O
+237.jpg	Customer Company	O
+237.jpg	DUE DATE:	O
+237.jpg	18-3-2021	O
+237.jpg	Customer Namie	O
+237.jpg	Ackress line	O
+237.jpg	Cily, Postcode	O
+237.jpg	Additional information	O
+237.jpg	Add any additional instructions Or telms nere	O
+237.jpg	Description	O
+237.jpg	Qty	O
+237.jpg	Unit	O
+237.jpg	Unit Price	O
+237.jpg	Total	O
+237.jpg	Example product	O
+237.jpg	pcs	O
+237.jpg	300	O
+237.jpg	Example work	O
+237.jpg	50	O
+237.jpg	Sub Total	O
+237.jpg	350	O
+237.jpg	Total amount due	O
+237.jpg	E 1 620,00	AMOUNT
+237.jpg	Registered Address	O
+237.jpg	Conachinfotmation	O
+237.jpg	Payment Details	O
+237.jpg	Addres$ Line	O
+237.jpg	Ccnlact Name	O
+237.jpg	Benk Name	O
+237.jpg	PLC	O
+237.jpg	Address Line	O
+237.jpg	Plone: 1234 567 890	O
+237.jpg	Sor-Code	O
+237.jpg	City. Postcode	O
+237.jpg	Email: iirstlast@company co.uk	O
+237.jpg	Account No_	O
+237.jpg	123456789	O
+237.jpg	Logo	O
+237.jpg	Your	O
+24.png	647-444-1234	O
+24.png	Your Address	O
+24.png	INVOICE	O
+24.png	your@email com	O
+24.png	City	O
+24.png	yourwebsite com	O
+24.png	ZIP CODE	O
+24.png	Billed To	O
+24.png	Invoice Number	O
+24.png	Invoice Total	O
+24.png	Client Name	O
+24.png	Oooooo	NUMB
+24.png	1 Client Address	O
+24.png	S4520.00	O
+24.png	City	O
+24.png	Date Of Issue	O
+24.png	ZIP CODE	O
+24.png	10-7-2014	DATE
+24.png	Description	O
+24.png	Unit Cost	O
+24.png	Qty	O
+24.png	Hr Rate	O
+24.png	Amount	O
+24.png	Your item Name	O
+24.png	S1000	O
+24.png	1000	O
+24.png	Item description goes here	O
+24.png	Your item Name	O
+24.png	51000	O
+24.png	1000	O
+24.png	Item description goes here	O
+24.png	Your item Name	O
+24.png	S1000	O
+24.png	1000	O
+24.png	Item description goes here	O
+24.png	Your item Name	O
+24.png	S1000	O
+24.png	1000	O
+24.png	Item description goes here	O
+24.png	Subtotal	O
+24.png	S4000.00	O
+24.png	Tax	O
+24.png	S520.00	O
+24.png	Total	O
+24.png	54520.00	AMOUNT
+24.png	Invoice Terms	O
+24.png	Ex Please pay your invoice by:	O
+24.png	Amount Due (USD)	O
+24.png	S4520.00	O
+245.png	East Repair Inc_	O
+245.png	1912 Harvest Lane	O
+245.png	New York	O
+245.png	BILL TO	O
+245.png	SHIP TO	O
+245.png	INVOICE #	O
+245.png	US-001	NUMB
+245.png	John Smith	O
+245.png	John Smith	O
+245.png	INVOICE DATE	O
+245.png	11-2-2019	DATE
+245.png	Court Square	O
+245.png	3787 Pineview Drive	O
+245.png	Po#	O
+245.png	2312/2019	O
+245.png	New York	O
+245.png	Cambridge	O
+245.png	MA 12210	O
+245.png	DUE DATE	O
+245.png	26-2-2019	O
+245.png	Invoice Total	O
+245.png	S154.06	AMOUNT
+245.png	QTY	O
+245.png	DESCRIPTION	O
+245.png	UNIT PRICE	O
+245.png	AMOUNT	O
+245.png	Front and rear brake cables	O
+245.png	100.00	O
+245.png	100.00	O
+245.png	New set of pedal arms	O
+245.png	15.00	O
+245.png	30.00	O
+245.png	Labor 3hrs	O
+245.png	5.00	O
+245.png	15.00	O
+245.png	Subtotal	O
+245.png	145.00	O
+245.png	Sales Tax 6.25%	O
+245.png	9.06	O
+245.png	TERMS & CONDITIONS	O
+245.png	Payment is due within 15 days	O
+245.png	Please make checks payable to: East Repair Inc_	O
+248.jpg	Brand Name	O
+248.jpg	INVOICE	O
+248.jpg	Invoice to:	O
+248.jpg	Dwyane Clark	O
+248.jpg	Invoice#	O
+248.jpg	52148	NUMB
+248.jpg	24 Dummy Street Area	O
+248.jpg	Locatlon	O
+248.jpg	Lorem Ipsum_	O
+248.jpg	Date	O
+248.jpg	1-2-2020	DATE
+248.jpg	570x*59x	O
+248.jpg	SL.	O
+248.jpg	Item Description	O
+248.jpg	Price	O
+248.jpg	Qty:	O
+248.jpg	Total	O
+248.jpg	Lorem Ipsum	O
+248.jpg	550.00	O
+248.jpg	850.00	O
+248.jpg	Pellentesque Id neque Iigula	O
+248.jpg	$20.00	O
+248.jpg	560.00	O
+248.jpg	Interdum et malesuada fames	O
+248.jpg	510.00	O
+248.jpg	520.00	O
+248.jpg	Vivamus volutpat faucibus	O
+248.jpg	S90.00	O
+248.jpg	s90.00	O
+248.jpg	Thank you for your business	O
+248.jpg	Sub Total:	O
+248.jpg	5220.00	O
+248.jpg	Tax:	O
+248.jpg	0.007	O
+248.jpg	Payment Info:	O
+248.jpg	Total:	O
+248.jpg	$220.00	AMOUNT
+248.jpg	Lccount	O
+248.jpg	121< 5678 9017	O
+248.jpg	4/C Namc	O
+248.jpg	Bink Dctalls:	O
+248.jpg	Terms	O
+248.jpg	Conditions	O
+248.jpg	Jdipiscing	O
+248.jpg	Authorised Sign	O
+248.jpg	VectorStock	O
+248.jpg	VectorStock com/19833584	O
+249.jpg	Invoice to:	O
+249.jpg	INVOICE	O
+249.jpg	Dwyane Clark	O
+249.jpg	Involce#	O
+249.jpg	Loncm	O
+249.jpg	Ipgum Dolot	O
+249.jpg	{50,00	O
+249.jpg	520.00	O
+249.jpg	590	O
+249.jpg	{720.00	O
+26.png	My Company name	O
+26.png	Invoice	O
+26.png	My company slogan	O
+26.png	Augusi 29.2013	DATE
+26.png	Invcice	O
+26.png	DooC)	O
+26.png	Insert Your Logo	O
+26.png	[ABC 12345]	O
+26.png	Purchase	O
+26.png	12745673	O
+26.png	Payment Due by:	O
+26.png	Septembe	O
+26.png	28,2013	O
+26.png	BIlI To:	O
+26.png	Ship To (If Differentj:	O
+26.png	[Name]	O
+26.png	[Namel	O
+26.png	[Street Address]	O
+26.png	Street Address)	O
+26.png	[City , ST ZIP Code]	O
+26.png	[City. ST ZIP Ccde]	O
+26.png	[Phone]	O
+26.png	[Phcnel	O
+26.png	Shipping Mcthod	O
+26.png	shipping Terng	O
+26.png	[Namel	O
+26.png	112233	O
+26.png	Printer Paper A4 50Ox5	O
+26.png	35.00	O
+26.png	70.00	O
+26.png	445566	O
+26.png	Black Ink Cartridge HP 350	O
+26.png	35.00	O
+26.png	35.00	O
+26.png	Spccial Notcs and	O
+26.png	Sublotal	O
+26.png	105.00	O
+26.png	Sales Tax Rate	O
+26.png	0.00	O
+26.png	Sales Tax	O
+26.png	S&h	O
+26.png	Discount	O
+26.png	Total	O
+26.png	105.00	AMOUNT
+26.png	Make all checks payable	O
+26.png	My Company name	O
+26.png	Thank you for your businessl	O
+26.png	Should you have any enquiries concerning this invoice ,	O
+26.png	111 Street	O
+26.png	Dale	O
+28.png	[Company Name]	O
+28.png	INVOICE	O
+28.png	INCICE &	O
+28.png	DATE	O
+28.png	2024	O
+28.png	CUSTOHERID	O
+28.png	Net ? Day	O
+28.png	BILL TO	O
+28.png	SHIP TC	O
+28.png	jema	O
+28.png	CESCRIFTION	O
+28.png	UNM FRICE	O
+28.png	AECUNT	O
+28.png	TOTAL	O
+28.png	525.00	O
+28.png	Nam	O
+29.jpg	[Company Name]	O
+29.jpg	INVOICE	O
+29.jpg	[Street Address]	O
+29.jpg	[City, ST	O
+29.jpg	ZIP]	O
+29.jpg	INVOICE #	O
+29.jpg	DATE	O
+29.jpg	Phone: (000) 000-0000	O
+29.jpg	[123456]	NUMB
+29.jpg	5-1-2014	O
+29.jpg	BILL TO	O
+29.jpg	[Name]	O
+29.jpg	[Company Name]	O
+29.jpg	[Street Address]	O
+29.jpg	[City , ST ZIP]	O
+29.jpg	[Phone]	O
+29.jpg	[Email Address]	O
+29.jpg	DESCRIPTION	O
+29.jpg	AMOUNT	O
+29.jpg	Service Fee	O
+29.jpg	200.00	O
+29.jpg	Labor: 5 hours at S75/hr	O
+29.jpg	375.00	O
+29.jpg	New client discount	O
+29.jpg	(50.00)	O
+29.jpg	Tax (4.25% after discount)	O
+29.jpg	26.56	O
+29.jpg	Thank you for your businessl	O
+29.jpg	TOTAL	O
+29.jpg	$ 551.56	AMOUNT
+29.jpg	Ifyou have any questions about this invoice, please contact	O
+29.jpg	[Name, Phone, email@address com]	O
+3.png	INVOICE	O
+3.png	LOGO	O
+3.png	East Repair Inc:	O
+3.png	1912 Harvest Lane	O
+3.png	New York	O
+3.png	BILL TO	O
+3.png	SHIP TO	O
+3.png	INVOICE #	O
+3.png	US-001	NUMB
+3.png	John Smith	O
+3.png	John Smith	O
+3.png	INVOICE DATE	O
+3.png	11-2-2019	DATE
+3.png	Court Square	O
+3.png	3787 Pineview Drive	O
+3.png	PO.#	O
+3.png	2312/2019	O
+3.png	New York	O
+3.png	Cambridge	O
+3.png	MA 12210	O
+3.png	DUE DATE	O
+3.png	26-2-2019	O
+3.png	QTY	O
+3.png	DESCRIPTION	O
+3.png	UNIT PRICE	O
+3.png	AMOUNT	O
+3.png	Front and rear brake cables	O
+3.png	100.00	O
+3.png	100.00	O
+3.png	New set of pedal arms	O
+3.png	15.00	O
+3.png	30.00	O
+3.png	Labor 3hrs	O
+3.png	.00	O
+3.png	15.00	O
+3.png	Sublotal	O
+3.png	145.00	O
+3.png	Sales Tax 6.25%	O
+3.png	9.06	O
+3.png	S154.06	AMOUNT
+3.png	TERMS & CONDITIONS	O
+3.png	Payment is due within 15 days	O
+3.png	Please make checks payable to: East Repair Inc,	O
+32.jpg	INVOICE #	O
+32.jpg	1299	NUMB
+32.jpg	Photography Invoice Template	O
+32.jpg	FROM	O
+32.jpg	John Doe	O
+32.jpg	Sample Client	O
+32.jpg	165 Eleventh Street	O
+32.jpg	Sample Client	O
+32.jpg	Apt 2	O
+32.jpg	San Francisco , California, 95376	O
+32.jpg	sampleclientahellobonsalcom	O
+32.jpg	United States	O
+32.jpg	ISSUED ON	O
+32.jpg	DUEON	O
+32.jpg	Aug 22,2020	DATE
+32.jpg	Sep 22,2020	O
+32.jpg	ITEM NAME	O
+32.jpg	UNITS	O
+32.jpg	RATE	O
+32.jpg	TOTAL	O
+32.jpg	Photography Services	O
+32.jpg	580	O
+32.jpg	51.760.00	O
+32.jpg	Other	O
+32.jpg	Services	O
+32.jpg	540.00	O
+32.jpg	5320.00	O
+32.jpg	Subtotal	O
+32.jpg	S2,080.00	O
+32.jpg	Total Amount	O
+32.jpg	$2,080.00 (USD)	AMOUNT
+32.jpg	PA YMENT	O
+32.jpg	The client can pay via wire transfer 01 mailed check:	O
+32.jpg	The cllent wlll not pay the processing fees for an online payment_	O
+32.jpg	1 of 2	O
+34.jpg	INVOICE #00031	NUMB
+34.jpg	Simc	O
+34.jpg	YOUR LOGO	O
+34.jpg	Dldd	O
+34.jpg	HERE	O
+34.jpg	VAT Number 1224567	O
+34.jpg	Proouct	O
+34.jpg	sample product	O
+34.jpg	test proclci	O
+34.jpg	10	O
+34.jpg	10 @	O
+34.jpg	piaducl 1	O
+34.jpg	10 00	O
+34.jpg	217 00	O
+34.jpg	Total	O
+34.jpg	{153.00	AMOUNT
+34.jpg	dJys	O
+35.jpg	Brubaker	O
+35.jpg	P.0	O
+35.jpg	Box 4371 TAYLOR STREET	O
+35.jpg	WESTBURY_	O
+35.jpg	NY 11590	O
+35.jpg	914-625-0403	O
+35.jpg	Productions	O
+35.jpg	BRUBAKERPRODUCTIONS com	O
+35.jpg	INVOICE	O
+35.jpg	# 0018	NUMB
+35.jpg	DATE ISSUED: 28 DECEMBER 2019	DATE
+35.jpg	DEScRiPTiON	O
+35.jpg	PRICE	O
+35.jpg	TOTAL	O
+35.jpg	Redhead Light Rental	O
+35.jpg	520.00	O
+35.jpg	S100.00	O
+35.jpg	Diva Light Rental	O
+35.jpg	520.00	O
+35.jpg	540.00	O
+35.jpg	Boom Mike Overhead	O
+35.jpg	510.00	O
+35.jpg	510.00	O
+35.jpg	Dead Cat	O
+35.jpg	S5.00	O
+35.jpg	510.00	O
+35.jpg	Video Camera Rental	O
+35.jpg	550.00	O
+35.jpg	S100.00	O
+35.jpg	TOTAL AMoUnT:	O
+35.jpg	5260.00	O
+35.jpg	TAX:	O
+35.jpg	53.20	O
+35.jpg	AMOUNT DUE:	O
+35.jpg	5263.20	AMOUNT
+35.jpg	Timothy SLACK	O
+35.jpg	CENTRAL BANK OF AMERICA	O
+35.jpg	1920483	O
+35.jpg	Thank you	O
+35.jpg	very much!	O
+38.jpg	INVOICE	O
+38.jpg	My Company	O
+38.jpg	Invoice Number: INV-1258	NUMB
+38.jpg	Gregory E. Willis	O
+38.jpg	PO Number:	O
+38.jpg	6258 Amesbury St	O
+38.jpg	Invoioe Date: 24-Dec-2012	DATE
+38.jpg	San Diego	O
+38.jpg	Due Date: 23-Jan-2013	O
+38.jpg	Germany	O
+38.jpg	Balance Due:	O
+38.jpg	50.00	O
+38.jpg	example@examplewom	O
+38.jpg	Bill To	O
+38.jpg	Robert Son	O
+38.jpg	Ship To	O
+38.jpg	Robert Son	O
+38.jpg	799 E DRAGRAM SUITE 5A	O
+38.jpg	799 E DRAGRAM SUITE 54	O
+38.jpg	TUCSON AZ 85705	O
+38.jpg	TUCSON AZ 85705	O
+38.jpg	United States of America	O
+38.jpg	United States of America	O
+38.jpg	UNIT	O
+38.jpg	QTY	O
+38.jpg	PRODUCT	O
+38.jpg	DESCRIPTION	O
+38.jpg	LINE TOTAL	O
+38.jpg	PRICE	O
+38.jpg	Website Design	O
+38.jpg	Wcbsite Design	O
+38.jpg	50.00	O
+38.jpg	50.00	O
+38.jpg	SUB	O
+38.jpg	50	O
+38.jpg	daily terms1o	O
+38.jpg	TOTAL	O
+38.jpg	TAX	O
+38.jpg	S0.00	O
+38.jpg	FEE	O
+38.jpg	0.00	O
+38.jpg	DISCOUNT	O
+38.jpg	S0.00	O
+38.jpg	TOTAL	O
+38.jpg	S 50.00	DATE
+38.jpg	PAYMENTS	O
+38.jpg	0.00	O
+38.jpg	BALANCE	O
+38.jpg	50.00	O
+38.jpg	Make all checks payable t0 My Company	O
+38.jpg	Thank you for your business	O
+38.jpg	Payment due in 30 days	O
+39.jpg	Hilltop Bootcamp	O
+39.jpg	New Invoice	O
+39.jpg	5180.00 due on Feb: 1, 2018	O
+39.jpg	Invoice	O
+39.jpg	Invoice #3214	NUMB
+39.jpg	January 25, 2018	DATE
+39.jpg	Customer	O
+39.jpg	Elizabeth Jones	O
+39.jpg	elizabethjones@squarecom	O
+39.jpg	We	O
+39.jpg	ook forward to working with you in 20181	O
+39.jpg	Personal Training Session	O
+39.jpg	20-pack	O
+39.jpg	S180.00	O
+39.jpg	Subtotal	O
+39.jpg	5180.00	O
+39.jpg	Tax	O
+39.jpg	Total Due	O
+39.jpg	S180.00	AMOUNT
+39.jpg	Hilltop Bootcamp	O
+39.jpg	Security	O
+39.jpg	Privacy	O
+39.jpg	2018 Square, Inc	O
+39.jpg	Pay	O
+45.jpg	[Company Name]	O
+45.jpg	PRO FORMA InvoICE	O
+45.jpg	(Street Address]	O
+45.jpg	Date	O
+45.jpg	{1/201	DATE
+45.jpg	STZipi	O
+45.jpg	Expiration Dat	O
+45.jpg	4/30/201	O
+45.jpg	Invoice	O
+45.jpg	[2345	NUMB
+45.jpg	Customer ID	O
+45.jpg	Website:	O
+45.jpg	CUSTOMER	O
+45.jpg	SHIP TO	O
+45.jpg	SHIPPING DETAILS	O
+45.jpg	(Name	O
+45.jpg	(Namcl	O
+45.jpg	Frcight Type	O
+45.jpg	[Alr or Ocean]	O
+45.jpg	[Company Namel	O
+45.jpg	Company Namel	O
+45.jpg	Est Ship Date	O
+45.jpg	[Street Address]	O
+45.jpg	Strcet Address]	O
+45.jpg	Est Gross Weigl [weight] [units	O
+45.jpg	Est Cubic	O
+45.jpg	(weight] [units	O
+45.jpg	(Phonel	O
+45.jpg	(Phone]	O
+45.jpg	Total Packages [Qtyl	O
+45.jpg	NUMBE	O
+45.jpg	MEASUR DESCRIPTION	O
+45.jpg	PRICE	O
+45.jpg	IAX	O
+45.jpg	AMOUNT	O
+45.jpg	123ABC	O
+45.jpg	pounds	O
+45.jpg	Materal ABC	O
+45.jpg	45.23	O
+45.jpg	35.69	O
+45.jpg	Subtotal	O
+45.jpg	135.69	O
+45.jpg	TERMS OF SALE AND OTHER COMMENTS	O
+45.jpg	Tarable	O
+45.jpg	135.69	AMOUNT
+45.jpg	Ilnclude and terms of sale or other information	O
+45.jpg	necdedl	O
+45.jpg	Tax rate	O
+45.jpg	625.070	O
+45.jpg	IIlnclude pavment terms such	O
+45.jpg	Letter	O
+45.jpg	Credit Open Account Or other:	O
+45.jpg	Ta	O
+45.jpg	8.48	O
+45.jpg	Frcight	O
+45.jpg	Insunnce	O
+45.jpg	Legal/Consular	O
+45.jpg	Inspection/Cert	O
+45.jpg	Otncr	O
+45.jpg	(specify)	O
+45.jpg	Othcr (specify)	O
+45.jpg	TOTAL	O
+45.jpg	144.17	O
+45.jpg	Currency	O
+45.jpg	USD	O
+45.jpg	@DDIIONAL DETNLS	O
+45.jpg	Country of Origin	O
+45.jpg	Countryl	O
+45.jpg	Port of Embarkation (Namc]	O
+45.jpg	Port of Discharge	O
+45.jpg	(Name]	O
+45.jpg	Reason for Export:	O
+45.jpg	Pnone	O
+45.jpg	(City	O
+47.jpeg	Your Company Name	O
+47.jpeg	INVOICE	O
+47.jpeg	nvoiceto me	O
+47.jpeg	Edit the tcmplate	O
+47.jpeg	123 Your Streel	O
+47.jpeg	23 July-2018	DATE
+47.jpeg	Your Tormn	O
+47.jpeg	Involce #2334889	NUMB
+47.jpeg	Accress Line	O
+47.jpeg	Po 456001200	O
+47.jpeg	(123) 456 789	O
+47.jpeg	Att: Ms. Jane Doe	O
+47.jpeg	emall @yourcompany com	O
+47.jpeg	Client Company Name	O
+47.jpeg	Get PDF	O
+47.jpeg	cost-breakdown forthe recent	O
+47.jpeg	completed Please make payment atyour	O
+47.jpeg	nci hesitate	O
+47.jpeg	Many thanks,	O
+47.jpeg	Your Name	O
+47.jpeg	Item Descrpbon	O
+47.jpeg	Unit price	O
+47.jpeg	125.00	O
+47.jpeg	5000.00	O
+47.jpeg	Resute table	O
+47.jpeg	Delcte TOw	O
+47.jpeg	5000.00	O
+47.jpeg	Sales Tax (20901	O
+47.jpeg	1000.00	O
+47.jpeg	otal	O
+47.jpeg	6000.00	AMOUNT
+48.png	Craig's Design and Landscaping Services	O
+48.png	123 Sierra Way	O
+48.png	San Pablo	O
+48.png	noreply@quickbooks.com	O
+48.png	INVOICE	O
+48.png	BILL TO	O
+48.png	INVOICE # 1012	NUMB
+48.png	Shara Bamett	O
+48.png	DATE 11/08/2019	DATE
+48.png	Barnett Design	O
+48.png	DUE DATE	O
+48.png	2/08/201:	O
+48.png	19 Main St	O
+48.png	TERMS Net 30	O
+48.png	Middlefield, CA 94303	O
+48.png	ACTIVITY	O
+48.png	DESCRIPTION	O
+48.png	QTY	O
+48.png	RATE	O
+48.png	AMOUNT	O
+48.png	Sprinkler Heads	O
+48.png	Sprinkler Heads	O
+48.png	2.00	O
+48.png	30.00	O
+48.png	Rock Fountain	O
+48.png	Rock Fountain	O
+48.png	275.00	O
+48.png	275.00	O
+48.png	Thankyou for your busiress and have	O
+48.png	SUBTOTAL	O
+48.png	305.00	O
+48.png	DISCOUNT	O
+48.png	10%6	O
+48.png	30.50	O
+48.png	TOTAL	O
+48.png	274.50	O
+48.png	BALANCE DUE	O
+48.png	S274.50	AMOUNT
+5.png	East Repair Inc:	O
+5.png	INVOICE	O
+5.png	1912 Harvest Lane	O
+5.png	New York	O
+5.png	Bill To	O
+5.png	Ship To	O
+5.png	Invoice #	O
+5.png	US-001	NUMB
+5.png	John Smith	O
+5.png	John Smith	O
+5.png	Invoice Date	O
+5.png	11-2-2019	DATE
+5.png	2 Court Square	O
+5.png	3787 Pineview Drive	O
+5.png	Po#	O
+5.png	2312/2019	O
+5.png	New York	O
+5.png	Cambridge, MA 12210	O
+5.png	Due Date	O
+5.png	26-2-2019	O
+5.png	QTY	O
+5.png	DESCRIPTION	O
+5.png	UNIT PRICE	O
+5.png	AMOUNT	O
+5.png	Front and rear brake cables	O
+5.png	100.00	O
+5.png	100.00	O
+5.png	New set of pedal arms	O
+5.png	15.00	O
+5.png	30.00	O
+5.png	Labor 3hrs	O
+5.png	5.00	O
+5.png	15.00	O
+5.png	Subtolal	O
+5.png	145.00	O
+5.png	Sales Tax 6.25%	O
+5.png	9.06	O
+5.png	TOTAL	O
+5.png	S154.06	AMOUNT
+5.png	Terms & Conditions	O
+5.png	Payment	O
+5.png	due within 15	O
+5.png	Please make checks payable lo: East Repair Inc_	O
+5.png	days	O
+50.png	Absolute Fashion	O
+50.png	Unvoice	O
+50.png	Auto allocate	O
+50.png	874 JAMSHEDJI RD	O
+50.png	Customer No_	O
+50.png	10003	NUMB
+50.png	MUMBAL 400016	O
+50.png	Date	O
+50.png	10-7-2020	DATE
+50.png	Maharashtra	O
+50.png	Delivery Date	O
+50.png	10-7-2020	O
+50.png	GSTIN: 1OBMUDTSBIRIXA	O
+50.png	CIN:	O
+50.png	76019 MU 2018 CIB 909687	O
+50.png	Invoice	O
+50.png	Thank you for your arder_ We charge you the fallawng delivery	O
+50.png	Description	O
+50.png	HSNISAC	O
+50.png	Qty-	O
+50.png	Price	O
+50.png	Discount	O
+50.png	Total	O
+50.png	Cotton Fabric	O
+50.png	200 pcs	O
+50.png	S00.00	O
+50.png	0%	O
+50.png	1,00,0O0.00 =	O
+50.png	Silk Fabrc	O
+50.png	3455	O
+50.png	100 pcs	O
+50.png	740.00	O
+50.png	74,000.00 *	O
+50.png	Subtotal	O
+50.png	1,74,00000 =	O
+50.png	IGST 598	O
+50.png	IGST 18%	O
+50.png	13,32	O
+50.png	Total	O
+50.png	1,92.320.00	AMOUNT
+50.png	Total (in words): One Lakh Ninety Two Thousand Three Hundred Twenty Rupees Only	O
+50.png	Payable upon receipt of the invoice	O
+50.png	We [hank you for your order and look forward	O
+50.png	further cooperation	O
+50.png	Yout Compiny Name	O
+50.png	INAAS	O
+50.png	MINHASECO	O
+50.png	Pncre	O
+50.png	'Draft `	O
+51.png	Love & Peonies	O
+51.png	OFFICIAL INVOICE	O
+51.png	ORDER #	O
+51.png	DATE	O
+51.png	PAYMENT	O
+51.png	123456	NUMB
+51.png	25-jan-19	DATE
+51.png	VENMO:	O
+51.png	+1123 412 12312	O
+51.png	PRODUCT	O
+51.png	PRICE	O
+51.png	QTY	O
+51.png	TOTAL	O
+51.png	Peonies Special Bouquet 2	O
+51.png	96	O
+51.png	96	O
+51.png	Peonies	O
+51.png	20	O
+51.png	Dusty Miller	O
+51.png	10	O
+51.png	Purple Wax Flower	O
+51.png	Teddy Bear	O
+51.png	Medium	O
+51.png	24	O
+51.png	24	O
+51.png	Deliver to: Maddie Anderson	O
+51.png	SUBTOTAL 120	O
+51.png	141 Saints Avenue	O
+51.png	#02-12	O
+51.png	DELIVERY	O
+51.png	20	O
+51.png	NY 12312	O
+51.png	TOTAL PRICE 140	AMOUNT
+51.png	Thank you for your	O
+51.png	+1123 123 1234	O
+51.png	WWipeoniesandlovecom	O
+51.png	hi@peoniesandlove com	O
+51.png	purchasel	O
+52.png	Invoice #0317	NUMB
+52.png	March 17,2019	DATE
+52.png	BILL To	O
+52.png	Cheap Dot Cloud Limited,	O
+52.png	Setproduct Inc ,	O
+52.png	Better Accounts Ltd Brookfield Court	O
+52.png	Arbat street	O
+52.png	Road	O
+52.png	Russian Federation	O
+52.png	VAT Code: GB-294588079	O
+52.png	+7 (926) 721-4127	O
+52.png	ITEM	O
+52.png	PRICE	O
+52.png	Qty	O
+52.png	OFF	O
+52.png	TOTAL	O
+52.png	Material Desktop System	O
+52.png	$128.00	O
+52.png	40%	O
+52.png	$76.80	O
+52.png	33 full-width design templates for Figma	O
+52.png	Material Design System	O
+52.png	$76.00	O
+52.png	40%	O
+52.png	S45.60	O
+52.png	Figma material components for mobile apps	O
+52.png	iOS Design Toolkit	O
+52.png	$78.00	O
+52.png	40%	O
+52.png	S46.80	O
+52.png	120+ iOS	O
+52.png	application templates as Figma	O
+52.png	Android Design Toolkit	O
+52.png	$74.00	O
+52.png	40%	O
+52.png	S44.40	O
+52.png	120+ iOS application templates as Figma system	O
+52.png	Web Design Toolkit	O
+52.png	$68.00	O
+52.png	40%	O
+52.png	S40.80	O
+52.png	Figma design templates for landing pages	O
+52.png	Charts Toolkit	O
+52.png	$128.00	O
+52.png	40%	O
+52.png	$76.80	O
+52.png	Figma sytem with extended charts templates	O
+52.png	Material Icons System	O
+52.png	$24.00	O
+52.png	40%	O
+52.png	S14.40	O
+52.png	1500+ categorized icons components for Figma	O
+52.png	Setproduct Material-UI React theme	O
+52.png	$98.00	O
+52.png	0%	O
+52.png	S98.00	O
+52.png	Next-level ReactJS components based on Material	O
+52.png	Desktop System (pre-order stage)	O
+52.png	NOTES	O
+52.png	SUBTOTAL	O
+52.png	Qty	O
+52.png	DISCoUNT	O
+52.png	TAX	O
+52.png	RATE	O
+52.png	Setproduct Material-UI Vueact theme is under	O
+52.png	$674.00	O
+52.png	8	O
+52.png	$208.40	O
+52.png	5%	O
+52.png	development now: Release could be expected on	O
+52.png	May 2091, product will be shipped via the	O
+52.png	SUBTOTAL	O
+52.png	provided email	O
+52.png	S465.60	AMOUNT
+52.png	system	O
+53.png	Cypress North	O
+53.png	567 Exchange Street	O
+53.png	Buffalo, New York 14210	O
+53.png	BILLFLIgHT	O
+53.png	Invoice	O
+53.png	Invoice Date	O
+53.png	Bill Flight	O
+53.png	7-9-2015	DATE
+53.png	Bill Flight	O
+53.png	567	O
+53.png	Exchange Street	O
+53.png	Amount Due	O
+53.png	$349.85	AMOUNT
+53.png	Suite 309	O
+53.png	Buffalo_	O
+53.png	New York 14210	O
+53.png	Description	O
+53.png	Quantity	O
+53.png	Rate	O
+53.png	Options	O
+53.png	Total	O
+53.png	In-flight Pilot Training	O
+53.png	549.99	O
+53.png	5249.95	O
+53.png	Preflight Briefing	O
+53.png	509.99	O
+53.png	549.95	O
+53.png	Post Flight Briefing and Evaluation	O
+53.png	509.99	O
+53.png	549.95	O
+53.png	Sub Total	O
+53.png	5349.85	O
+53.png	Total	O
+53.png	5349.85	O
+53.png	Paid	O
+53.png	5100.00	O
+53.png	Owed	O
+53.png	$249.85	O
+53.png	Notes	O
+53.png	Add 15% discount for group rate_	O
+55.jpg	Invoice	O
+55.jpg	Company Name	O
+55.jpg	Acdress line	O
+55.jpg	Accrress line 2	O
+55.jpg	City, Postcode	O
+55.jpg	Phone: 1234 567 890	O
+55.jpg	Invoice Date:	O
+55.jpg	18-3-2021	DATE
+55.jpg	Invoice Number:	O
+55.jpg	1234	NUMB
+55.jpg	Client Reference:	O
+55.jpg	Purchase Order:	O
+55.jpg	Customer Company	O
+55.jpg	DUE DATE:	O
+55.jpg	18-3-2021	O
+55.jpg	Customer Namie	O
+55.jpg	Ackress line	O
+55.jpg	Cily, Postcode	O
+55.jpg	Additional information	O
+55.jpg	Add any additional instructions Or telms nere	O
+55.jpg	Description	O
+55.jpg	Qty	O
+55.jpg	Unit	O
+55.jpg	Unit Price	O
+55.jpg	VAT %	O
+55.jpg	VAT	O
+55.jpg	Total	O
+55.jpg	Example product	O
+55.jpg	pCS	O
+55.jpg	{ 60	O
+55.jpg	20%	O
+55.jpg	60	O
+55.jpg	300	O
+55.jpg	Example work	O
+55.jpg	105	O
+55.jpg	20%	O
+55.jpg	210	O
+55.jpg	{ 1 050,00	O
+55.jpg	Sub Total	O
+55.jpg	350	O
+55.jpg	Total VAT	O
+55.jpg	270	O
+55.jpg	Total amount due	O
+55.jpg	1620	AMOUNT
+55.jpg	Registered Address	O
+55.jpg	Conachinfotmation	O
+55.jpg	Payment Details	O
+55.jpg	Addres$ Line	O
+55.jpg	Ccnlact Name	O
+55.jpg	Benk Name	O
+55.jpg	PLC	O
+55.jpg	Address Line	O
+55.jpg	Plone: 1234 567 890	O
+55.jpg	Sor-Code	O
+55.jpg	City. Postcode	O
+55.jpg	Email: iirstlast@company co.uk	O
+55.jpg	Account No_	O
+55.jpg	123456789	O
+55.jpg	Logo	O
+55.jpg	Your	O
+57.png	BQE Core Architecture	O
+57.png	10051 Santa Monica Boulevard	O
+57.png	Los Angeles, CA 90505	O
+57.png	Tel: 333-444-5555 Fax: 222-333-6666	O
+57.png	admin@bqecorearchitecture.com	O
+57.png	INVOICE	O
+57.png	Thurston Howell	O
+57.png	TAX ID: 073334441	O
+57.png	Aspen Chamber of Commerce	O
+57.png	INVOICE DATE: 10/9/2020	O
+57.png	400 Rio Grande Place	O
+57.png	INVOICE NO: 1227	NUMB
+57.png	Aspen	O
+57.png	81611	O
+57.png	BILLING THROUGH: 12/31/2020	O
+57.png	15-08 Aspen Cultural Center:	O
+57.png	Aspen Cultural Center	O
+57.png	Managed By: Jennifer   Smith	O
+57.png	PROFESSIONAL SERVICES	O
+57.png	DATE	O
+57.png	EMPLOYEE	O
+57.png	DESCRIPTION	O
+57.png	HOURS	O
+57.png	RATE	O
+57.png	AMOUNT	O
+57.png	9/21/2020	O
+57.png	Jason Acosta	O
+57.png	Pickup Redline Corrections	O
+57.png	0.75	O
+57.png	S105.00	O
+57.png	S78.75	O
+57.png	9/21/2020	O
+57.png	Steven Cohen	O
+57.png	Pickup Redline Corrections	O
+57.png	0.75	O
+57.png	S195.00	O
+57.png	S146.25	O
+57.png	9/25/2020	O
+57.png	Scott Jackson	O
+57.png	Pickup Redline Corrections	O
+57.png	2.00	O
+57.png	S275.00	O
+57.png	S550.00	O
+57.png	10-9-2020	DATE
+57.png	Doug Donovan	O
+57.png	Client Meeting	O
+57.png	2.00	O
+57.png	S195.00	O
+57.png	S390.00	O
+57.png	10-9-2020	O
+57.png	Alice Shapiro	O
+57.png	Elevations	O
+57.png	7.00	O
+57.png	S150.00	O
+57.png	S1,050.00	O
+57.png	TOTAL SERVICES	O
+57.png	12.50	O
+57.png	S2,215.00	O
+57.png	EXPENSES	O
+57.png	DATE	O
+57.png	EMPLOYEE	O
+57.png	DESCRIPTION	O
+57.png	AMOUNT	O
+57.png	9/20/2020	O
+57.png	Alice Shapiro	O
+57.png	Copies	O
+57.png	S6.50	O
+57.png	TOTAL EXPENSES	O
+57.png	S6.50	O
+57.png	SUBTOTAL	O
+57.png	S2,221.50	O
+57.png	SALES TAX	O
+57.png	S10.46	O
+57.png	AMOUNT DUE THIS INVOICE	O
+57.png	S2,231.96	AMOUNT
+57.png	This invoice is due on 11/8/2020	O
+57.png	ACCOUNT SUMMARY	O
+57.png	SERVICES BTD	O
+57.png	EXPENSES BTD	O
+57.png	LAST INV NO	O
+57.png	LAST INV DATE	O
+57.png	LAST INV AMT	O
+57.png	LAST PAY AMT	O
+57.png	PREV UNPAID AMT	O
+57.png	S113,856.50	O
+57.png	816,665.03	O
+57.png	1212	O
+57.png	9/18/2020	O
+57.png	S9,769.53	O
+57.png	S13,581.25	O
+57.png	S4,767.28	O
+57.png	TOTAL AMOUNT DUE INCLUDING THIS INVOICE	O
+57.png	S6,999.24	O
+57.png	Core Standard Invoice Copyright @ 2020 BQE Software	O
+57.png	Page	O
+59.png	Husiness Name	O
+59.png	Invoicing	O
+59.png	Template.com	O
+59.png	Address	O
+59.png	City State ZIP Contact	O
+59.png	INVOICE=	O
+59.png	Payer	O
+59.png	name#]	O
+59.png	DATE	O
+59.png	May 15, 2009	DATE
+59.png	Fatehpuri Chandni	O
+59.png	Chowk	O
+59.png	110006	O
+59.png	INVOICE #	O
+59.png	INV105I	NUMB
+59.png	emailetl	O
+59.png	DESCRIPTION	O
+59.png	QTY	O
+59.png	AMOUNT	O
+59.png	One Room Set Flat at Mahamaya Puram SIDCUL	O
+59.png	C-02	O
+59.png	100.00	O
+59.png	asfaf	O
+59.png	One Rcom Set Flat at Mahamaya Puram SIDCUL	O
+59.png	200.00	O
+59.png	c04	O
+59.png	One Rcom Set Flat at Mahamaya Puram SIDCUL	O
+59.png	300.00	O
+59.png	TOTAL	O
+59.png	600.00	AMOUNT
+59.png	Terms and Conditions	O
+59.png	Cheques	O
+59.png	gubjected to realisation	O
+59.png	All Disputes are subjected	O
+59.png	Jurisdiction only .	O
+59.png	Pleaze prezerve this invoice for future reference	O
+59.png	CompanyName	O
+59.png	will not be responsible for any payment made by customer	O
+59.png	any	O
+59.png	perzon other than duly authorised by	O
+59.png	For Businez: Name	O
+59.png	(Authorized Signatory)	O
+59.png	TELK FOU FOR FOUR BUSINESS:	O
+60.jpg	Invoice	O
+60.jpg	Date:	O
+60.jpg	07/22/2015	DATE
+60.jpg	30 Days	O
+60.jpg	Due Date	O
+60.jpg	08/21/2015	O
+60.jpg	Modern Heating	O
+60.jpg	3358 Pord HlRd	O
+60.jpg	Taberg NY 13471	O
+60.jpg	P. 717-945-3705	O
+60.jpg	Bill To	O
+60.jpg	IM Inc	O
+60.jpg	POBOX 7747	O
+60.jpg	Portlard TN 37148	O
+60.jpg	MEM	O
+60.jpg	Work order # 1050140 Dollar General: Diagnosed	O
+60.jpg	S685.€0	O
+60.jpg	8685.00	O
+60.jpg	lolo	O
+60.jpg	Travel	O
+60.jpg	5195,C0	O
+60.jpg	S195 00	O
+60.jpg	Labcr	O
+60.jpg	5585.C0	O
+60.jpg	Subtotal	O
+60.jpg	51,465,00	O
+60.jpg	Total	O
+60.jpg	S1,465.00	O
+60.jpg	Balance Due	O
+60.jpg	S1,465.00	AMOUNT
+60.jpg	Peyment Instructions	O
+60.jpg	Olher	O
+60.jpg	Check	O
+61.png	John Ramsay	O
+61.png	2660 Phillips Ave	O
+61.png	British Columbia,Canada	O
+61.png	7788467382	O
+61.png	Gst #: 6667778888	O
+61.png	INVOICE	O
+61.png	INVOICE TO	O
+61.png	INVOICE: BOSMP756	O
+61.png	The Rock Band	NUMB
+61.png	DATE: 18-Nov-2020	O
+61.png	1203 Any St,Vancouver,WAUnited States	O
+61.png	DUE DATE: 18-Nov-2020	DATE
+61.png	3833980383	O
+61.png	DESCRIPTION	O
+61.png	RATE	O
+61.png	AMOUNT	O
+61.png	Trumpet with Jazz Trio	O
+61.png	CAD2SO.OO	O
+61.png	CAD2SO.OO	O
+61.png	Notes:	O
+61.png	BOOKING DETAILS	O
+61.png	Arts Whistler Livel 2019/20 series	O
+61.png	PHONIX	O
+61.png	NINE	O
+61.png	Tax (Gst @ 5.00%)	O
+61.png	CAD12.5	O
+61.png	Maury Young Arts Centre, 4335 Blackcomb	O
+61.png	TOTAL	O
+61.png	CAD262.50	AMOUNT
+61.png	Way, Whistler, BC VON 1B4	O
+61.png	19-May-2020	O
+61.png	DATE	O
+61.png	MEMO	O
+61.png	PAYMENT METHOD	O
+61.png	AMOUNT	O
+61.png	BALANCE	O
+61.png	18-nov-20	O
+61.png	Thank youl	O
+61.png	Cheque (Pending)	O
+61.png	CAD262.50	O
+61.png	CADO.00	O
+63.png	ORIGiNALFOR RECIPIENT	O
+63.png	RELYON SOFTECH LIMITED	O
+63.png	saral	O
+63.png	Empowering Your Business	O
+63.png	GSTIN	O
+63.png	IOICE	O
+63.png	Email Id	O
+63.png	PAN	O
+63.png	Phone No :	O
+63.png	Billing Details (BilLIol	O
+63.png	Invoice No::	O
+63.png	Name	O
+63.png	Stationary Suppliers	O
+63.png	Invoice Date:	O
+63.png	6-7-2019	DATE
+63.png	Address	O
+63.png	Order Ref No	O
+63.png	State	O
+63.png	Karnataka	O
+63.png	Code	O
+63.png	Ref No	O
+63.png	Phone No	O
+63.png	Ref Date	O
+63.png	GSTIN	O
+63.png	29AAAFE93O2RIZY	O
+63.png	Type Of Payment	O
+63.png	CREDIT	O
+63.png	Shipping Details (Ship_Tol	O
+63.png	Name	O
+63.png	ST Classification	O
+63.png	Address	O
+63.png	State	O
+63.png	Code	O
+63.png	Phone No	O
+63.png	GSTIN	O
+63.png	Item Nam	O
+63.png	SAC	O
+63.png	CGST	O
+63.png	SGST	O
+63.png	Year	O
+63.png	UOM	O
+63.png	Unit	O
+63.png	Rate	O
+63.png	Amount	O
+63.png	Pate	O
+63.png	Rate	O
+63.png	Ammonnt	O
+63.png	Ref	O
+63.png	Professional Fees	O
+63.png	995411	O
+63.png	9.0	O
+63.png	10.98	O
+63.png	9.0	O
+63.png	10.98	O
+63.png	122.00	O
+63.png	122.00	O
+63.png	RATE WISE SUMMARY	O
+63.png	Gross Taxable Amount	O
+63.png	122.00	O
+63.png	CGSTAHT	O
+63.png	CESS RETE	O
+63.png	CES: AMT	O
+63.png	Discount	O
+63.png	0.00	O
+63.png	40.93	O
+63.png	CGST Amount	O
+63.png	10.98	O
+63.png	SGST Amount	O
+63.png	10.98	O
+63.png	Cess Amount	O
+63.png	0.00	O
+63.png	Post	O
+63.png	Charges	O
+63.png	0.00	O
+63.png	Roundoff Amount	O
+63.png	0.04	O
+63.png	Grand Total	O
+63.png	144.00	AMOUNT
+63.png	Amount in words	O
+63.png	Rupees One Hundred Forty Four	O
+63.png	Outstanding Summary	O
+63.png	Previous Balance	O
+63.png	Bill Amount	O
+63.png	Outstanding Amount	O
+63.png	2,515.00	O
+63.png	144.00	AMOUNT
+63.png	2,659.00	O
+63.png	Reverse Charge	O
+63.png	No	O
+63.png	Serviced By	O
+63.png	For RELYON SOFTECH LIMITED	O
+63.png	Created By	O
+63.png	Checked by	O
+63.png	Authorised Signatory	O
+63.png	Only	O
+64.jpg	Green Acres	O
+64.jpg	Invoice #27	NUMB
+64.jpg	Nicole Santos	O
+64.jpg	3-4-2019	DATE
+64.jpg	20/907-8	O
+64.jpg	Tsp 449	O
+64.jpg	$140.25	AMOUNT
+64.jpg	Fon Seruices Rendered	O
+64.jpg	Frodugt	O
+64.jpg	Cost	O
+64.jpg	Description ,	O
+64.jpg	services rendered	O
+64.jpg	Tolal money oved	O
+64.jpg	Personal nole	O
+64.jpg	Sublolal	O
+64.jpg	624 76	O
+71.jpg	Wo035	O
+71.jpg	Invoice for order 2339	NUMB
+71.jpg	Order Date: 2019-03-26	DATE
+71.jpg	Billing Address	O
+71.jpg	Shipping	O
+71.jpg	Shipping	O
+71.jpg	Address	O
+71.jpg	Method	O
+71.jpg	Product	O
+71.jpg	Quantity	O
+71.jpg	Ne  Test Procuc	O
+71.jpg	SID.O	O
+71.jpg	Shipoing:	O
+71.jpg	Payment mcthod:	O
+71.jpg	Customer Details	O
+72.png	Vernallis & Associates & Co_	O
+72.png	5500 Penn Ave	O
+72.png	INVOICE	O
+72.png	Pittsburgh	O
+72.png	Bill4 Time	O
+72.png	800 Main St	O
+72.png	Invoice Date	O
+72.png	Invoice Number	O
+72.png	Somewhere WA 98112	O
+72.png	3-1-2017	DATE
+72.png	Tems	O
+72.png	Service Through	O
+72.png	NIA	O
+72.png	3-1-2017	O
+72.png	In Reference To: Project 77-6	O
+72.png	Generic Client Project (Labor)	O
+72.png	Date	O
+72.png	Services	O
+72.png	Hours 	O
+72.png	Rates	O
+72.png	Amount	O
+72.png	1-1-2017	O
+72.png	MM	O
+72.png	Meeting: Met with Client to discuss several items relating to	O
+72.png	4.001	O
+72.png	5 25.00/hr	O
+72.png	100.00	O
+72.png	this project	O
+72.png	2-10-2017	O
+72.png	Research: Researched several possible strategies for client	O
+72.png	150	O
+72.png	In Reference To: Project 77-6	O
+72.png	Generic Client Project (Expenses)	O
+72.png	Date	O
+72.png	Expenses	O
+72.png	Amount	O
+72.png	1-1-2017	O
+72.png	MM	O
+72.png	Lunch: Business Iunch wth Client	O
+72.png	5 37.50	O
+72.png	2-1-2017	O
+72.png	MM	O
+72.png	Hardware: Computer hardware	O
+72.png	1,500.00	O
+72.png	02/25/2017	O
+72.png	Office Supplies: Pens	O
+72.png	paper	O
+72.png	65-00	O
+72.png	Total Hours	O
+72.png	10.00 hrs	O
+72.png	Tota	O
+72.png	Professional Services	O
+72.png	8250.00	O
+72.png	Total	O
+72.png	Expenses	O
+72.png	1,602 50	O
+72.png	Tota	O
+72.png	Invoice Amount	O
+72.png	1,852.50	AMOUNT
+72.png	Previous Balance	O
+72.png	0.00	O
+72.png	Balance (Amount Due)	O
+72.png	1,852.50	O
+73.jpg	XTENTO Test Store	O
+73.jpg	123 Some Street	O
+73.jpg	"Magento"""	O
+73.jpg	90210 Beverly Hills, US	O
+73.jpg	Tel: (541) 754-3010	O
+73.jpg	Email: owner@example.com	O
+73.jpg	BILL TO	O
+73.jpg	SHIP TO	O
+73.jpg	Veronica Costello	O
+73.jpg	Veronica Costello	O
+73.jpg	6146 Honey Bluff Parkway	O
+73.jpg	6146 Honey Bluff Parkway	O
+73.jpg	INVOICE #INV100200	NUMB
+73.jpg	Calder, Michigan, 49628-7978	O
+73.jpg	Calder, Michigan, 49628-7978	O
+73.jpg	Invoice Date: Dec 13, 2018	DATE
+73.jpg	United States	O
+73.jpg	United States	O
+73.jpg	T: (555) 229-3326	O
+73.jpg	T: (555) 229-3326	O
+73.jpg	Priceswlo	O
+73.jpg	Total wlo	O
+73.jpg	Product	O
+73.jpg	Price wl Tar	O
+73.jpg	Qty	O
+73.jpg	Tar	O
+73.jpg	TTax %	O
+73.jpg	Total wl Tax	O
+73.jpg	Ajax Full-Zip Sweatshirt	O
+73.jpg	S74.69	O
+73.jpg	s69.00	O
+73.jpg	S4.55	O
+73.jpg	8.25	O
+73.jpg	s69.00	O
+73.jpg	S74.69	O
+73.jpg	MH12-XS-Blue	O
+73.jpg	Marco Lightweight Active	O
+73.jpg	Hoodie-XS-Lavender	O
+73.jpg	S80.11	O
+73.jpg	S74.00	O
+73.jpg	$14.66	O
+73.jpg	8.25	O
+73.jpg	S222.00	O
+73.jpg	$240.32	O
+73.jpg	MH13-XS-Lavender	O
+73.jpg	Grayson Crewneck	O
+73.jpg	Sweatshirt	O
+73.jpg	S69.28	O
+73.jpg	S64.00	O
+73.jpg	S4.22	O
+73.jpg	8.25	O
+73.jpg	S64.00	O
+73.jpg	S69.28	O
+73.jpg	MHII-XL-Orange	O
+73.jpg	SUBTOTAL	O
+73.jpg	S355.00	O
+73.jpg	DISCOUNT	O
+73.jpg	-71.00	O
+73.jpg	TAX	O
+73.jpg	S23.43	O
+73.jpg	GRAND TOTAL	O
+73.jpg	$307.43	AMOUNT
+73.jpg	Dear Veronica Costello,	O
+73.jpg	Thank you!	O
+73.jpg	Tax	O
+74.jpg	From	O
+74.jpg	Matt Olpinski	O
+74.jpg	Matt Olpinski	O
+74.jpg	Invoice ID	O
+74.jpg	107	NUMB
+74.jpg	Invoice For	O
+74.jpg	Issue Date	O
+74.jpg	08/30/2018	DATE
+74.jpg	Due Date	O
+74.jpg	10/14/2018 (Net 45)	O
+74.jpg	Subject	O
+74.jpg	Invoice for Wireframe Revisions	O
+74.jpg	Meetings	O
+74.jpg	Item Type	O
+74.jpg	Description	O
+74.jpg	Quantity	O
+74.jpg	Unit Price	O
+74.jpg	Amount	O
+74.jpg	Service	O
+74.jpg	Meetings (08/20/2018	O
+74.jpg	08/30/2018)	O
+74.jpg	4.00	O
+74.jpg	S125.00	O
+74.jpg	S500.00	O
+74.jpg	Service	O
+74.jpg	Wireframes	O
+74.jpg	Revisions (08/20/2018 -	O
+74.jpg	16.00	O
+74.jpg	S125.00	O
+74.jpg	S2,000.00	O
+74.jpg	08/30/2018)	O
+74.jpg	Amount Due	O
+74.jpg	S2,500.00	AMOUNT
+77.jpg	Supplier Company Name	O
+77.jpg	Invoice	O
+77.jpg	Supplier Street Address	O
+77.jpg	(Example Only)	O
+77.jpg	City State ZIP	O
+77.jpg	INVOICE NO: 123456	NUMB
+77.jpg	DATE: May 10,2006	DATE
+77.jpg	Ship To:	O
+77.jpg	Bill To	O
+77.jpg	Intel Ccrporaicn	O
+77.jpg	Irtel Corporaion	O
+77.jpg	3601 Juliete Lane	O
+77.jpg	Po_	O
+77.jpg	Santa Clara,CA 95052	O
+77.jpg	Fillsboro, OR 37123-1000	O
+77.jpg	SALESPERSON	O
+77.jpg	P.O. NUMBER	O
+77.jpg	DATE SHIPPED	O
+77.jpg	SHIPPED VIA	O
+77.jpg	FO.B. POINT	O
+77.jpg	TERMS	O
+77.jpg	DCACI3379300	O
+77.jpg	UPS	O
+77.jpg	25015 Days Net 45	O
+77.jpg	QUANTITY	O
+77.jpg	@D LINE	O
+77.jpg	RELEA SEIDELIVERY	O
+77.jpg	DESCRIPTION	O
+77.jpg	INTEL PIN	O
+77.jpg	UNIT PRICE	O
+77.jpg	AMOUNT	O
+77.jpg	Labor- Peint the isers and stringers	O
+77.jpg	ell ive staimays	O
+77.jpg	RN3 with epoxy	O
+77.jpg	paint to match color	O
+77.jpg	Material	O
+77.jpg	Paint	O
+77.jpg	SUBTOTAL	O
+77.jpg	SALESTAX	O
+77.jpg	123.75	O
+77.jpg	SHIPPING	O
+77.jpg	HANDLING	O
+77.jpg	TOTAL DUE	O
+77.jpg	8623.75	AMOUNT
+77.jpg	Important Tips	O
+77.jpg	Remember When Invoicing Intel	O
+77.jpg	SUPF	O
+77.jpg	musttethazme	O
+77.jpg	Ucngee Oroen	O
+77.jpg	cngrje	O
+77.jpg	tne informajion on the ?urchase Orde	O
+77.jpg	incc-rec	O
+77.jpg	coriactne	O
+77.jpg	invc cinc	O
+77.jpg	unicue	O
+77.jpg	nothegame	O
+77.jpg	Cnor invoices	O
+77.jpg	Uzeexacty tne	O
+77.jpg	2802	O
+77.jpg	"""Ship To"" ajdrass"	O
+77.jpg	Furcnaas	O
+77.jpg	Omer	O
+77.jpg	tne s3m=	O
+77.jpg	Orcer	O
+77.jpg	Note:	O
+77.jpg	verity thatthe invoice	O
+77.jpg	ado-ese	O
+77.jpg	Furchaze Crder	O
+77.jpg	Femecu	O
+77.jpg	Frevert Faymar: de 9y5_	O
+77.jpg	Puncnase Oroe	O
+77.jpg	Purcnaze	O
+77.jpg	Orer	O
+77.jpg	includirg	O
+77.jpg	zeroe	O
+77.jpg	Purcnase	O
+77.jpg	Oec	O
+77.jpg	Dy rumeric ancvcr alpng	O
+77.jpg	fthere	O
+77.jpg	icvcked	O
+77.jpg	incldez	O
+77.jpg	sh PFing	O
+77.jpg	Prepaic	O
+77.jpg	freight cnarges	O
+77.jpg	wll Fay:	O
+77.jpg	Purcnaee	O
+77.jpg	Orce	O
+77.jpg	are NOT.ba	O
+77.jpg	inciucec cnte	O
+77.jpg	Invc -2	O
+77.jpg	Colle::	O
+77.jpg	'FecEx Colles:	O
+77.jpg	Intel wiill not pay shipping	O
+77.jpg	shipping	O
+77.jpg	"""Collectr"	O
+77.jpg	"""Prepaid"""	O
+78.png	Santigo Srl Industrial Fans & Multistage Blowers	O
+78.png	Via Reggio Calabria, 14 1COAA Metropolitana	O
+78.png	Talina	O
+78.png	Piemonie Ilalia	O
+78.png	PROFURMA IV YUICE	O
+78.png	CONSIGNEE:	O
+78.png	FR ENCH TEXTLF	O
+78.png	UP PUES SA	O
+78.png	DATE: 12/11/2016	DATE
+78.png	FRANCE	O
+78.png	Unit Price	O
+78.png	TTotal	O
+78.png	Amount	O
+78.png	DESCRIPTION	O
+78.png	Quantity	O
+78.png	(FUR)	O
+78.png	(USD)	O
+78.png	lcustalla	O
+78.png	su,uuooo	O
+78.png	ToT-L	O
+78.png	S2h FREIGHT	O
+78.png	Fort of Genoa, Italy, Inoterms 2010	O
+78.png	53,0o.00	AMOUNT
+78.png	~D	O
+78.png	ZERO	O
+78.png	CENTS	O
+78.png	Guocs will bereac toshipmant	O
+78.png	Lcacing Tine:	O
+78.png	profcrma invoice	O
+78.png	Net Weight:	O
+78.png	10,0lKGS	O
+78.png	Origin of Gocrs:	O
+78.png	Tle goods aile Italizn origin	O
+78.png	Pranch fless:	O
+78.png	Swlt Cuyle:	O
+78.png	Ian Code:	O
+8.png	[Company Name]	O
+8.png	INVOICE	O
+8.png	INCICE #	O
+8.png	DATE	O
+8.png	[24	O
+8.png	BILL TO	O
+8.png	ComparyName]	O
+8.png	jema	O
+8.png	DESCRIPTION	O
+8.png	Lator:	O
+8.png	Tax (	O
+8.png	Trank you foryou	O
+8.png	TOTAL	O
+8.png	551,56	O
+8.png	Iyu	O
+81.jpg	Supplier Company Name	O
+81.jpg	Invoice	O
+81.jpg	Suppler StreetAddress	O
+81.jpg	City	O
+81.jpg	Tax ID #	O
+81.jpg	Phone NumberFax Number	O
+81.jpg	(Example-Local vendors only)	O
+81.jpg	INVOICE NO: 123456	NUMB
+81.jpg	DATE: May 15,2000	DATE
+81.jpg	Ship To:	O
+81.jpg	Bill To:	O
+81.jpg	Hael	O
+81.jpg	Box	O
+81.jpg	Electtonics	O
+81.jpg	Ltd	O
+81.jpg	Quiyat Gat	O
+81.jpg	Qiryat-Gat	O
+81.jpg	SHESPEEOM	O
+81.jpg	DATESHPPED	O
+81.jpg	SHPPEDMA	O
+81.jpg	TERMS	O
+81.jpg	6JRBO38793000	O
+81.jpg	UPS	O
+81.jpg	29615 Days	O
+81.jpg	QUANTITY	O
+81.jpg	LINE	O
+81.jpg	RELEASEIDELNERY	O
+81.jpg	DESCRIPIION	O
+81.jpg	WEL PI	O
+81.jpg	UNIT PRICE	O
+81.jpg	AMOUNT	O
+81.jpg	Labor- Paintthe nsers and srngers	O
+81.jpg	7odo.00 NS	O
+81.jpg	700o.00 N:	O
+81.jpg	five stairways with epoxy	O
+81.jpg	paintto match cobr	O
+81.jpg	Materal 	O
+81.jpg	Paint	O
+81.jpg	1500.00 NiS	O
+81.jpg	1500.00 Ni:	O
+81.jpg	SUBTOTAL	O
+81.jpg	8500.00 NI:	O
+81.jpg	LOCALVENDORVAT	O
+81.jpg	123.75 NI:	O
+81.jpg	SHIPPING	O
+81.jpg	FANDLING	O
+81.jpg	0.00	O
+81.jpg	TOTAL DUE	O
+81.jpg	8623.75 NI:	AMOUNT
+81.jpg	Important Tips	O
+81.jpg	Remember When Invoicing Intel	O
+81.jpg	referemcedonthe Puchise Cier	O
+81.jpg	Use exactythesame	O
+81.jpg	Shp	O
+81.jpg	TBMe	O
+81.jpg	accordig tothe Puchase	O
+81.jpg	Zeios	O
+81.jpg	Paik,	O
+84.jpg	fleetwise	O
+84.jpg	TRANSPORT	O
+84.jpg	Transport Fleet	O
+84.jpg	TAX INVOICE	O
+84.jpg	13-aug-18	DATE
+84.jpg	NEW ZEALAND	O
+84.jpg	53-830-463	O
+84.jpg	Dcccnptior	O
+84.jpg	Quanuty	O
+84.jpg	1	O
+84.jpg	4,347,83	O
+84.jpg	4,347,8}	O
+84.jpg	MPATFS1ZSH512312	O
+84.jpg	JHITC123121	O
+84.jpg	Subtotal	O
+84.jpg	TOTAL GST 15%	O
+84.jpg	652.17	O
+84.jpg	5,000.00	AMOUNT
+84.jpg	Due Date: 20 Scp 2018	O
+87.png	ABC Corporation	O
+87.png	19 Cherry Lane, #1l-123, New York	O
+87.png	Desklera	O
+87.png	US 15212	O
+87.png	123 456 0789	O
+87.png	abccorpteas@emallcom	O
+87.png	DATE 31-07-2020	DATE
+87.png	Bu To	O
+87.png	Thank You dor Your business?	O
+87.png	Enjoy	O
+87.png	"purc hase with promo code ""S0FF"""	O
+87.png	NYUS 11216	O
+87.png	Quantity	O
+87.png	Discount	O
+87.png	Amount	O
+87.png	USD J0,00	O
+87.png	putcehin	O
+87.png	Tem Cup	O
+87.png	"""ne D"""	O
+87.png	USD Q	O
+87.png	USD 16334	O
+87.png	Eugriving Service	O
+87.png	USD J0,00	O
+87.png	USD 2,66	O
+87.png	Lose Lent	O
+87.png	USD 25,00	O
+87.png	Usd 1,78	O
+87.png	USD 21.78	O
+87.png	(IKG	O
+87.png	USD 8 44	O
+87.png	USD 10144	AMOUNT
+89.jpg	CONTOSO LTD.	O
+89.jpg	INVOICE	O
+89.jpg	Contoso Headquarters	O
+89.jpg	INVOICE: INV-100	NUMB
+89.jpg	123 456th St	O
+89.jpg	INVOICE DATE: 11/15/2019	DATE
+89.jpg	New York, NY, 10001	O
+89.jpg	DUE DATE: 12/15/2019	O
+89.jpg	CUSTOMER NAME: MICROSOFT CORPORATION	O
+89.jpg	SERVICE PERIOD: 10/14/2019	O
+89.jpg	11/14/2019	O
+89.jpg	CUSTOMER ID: CID-12345	O
+89.jpg	Microsoft Corp	O
+89.jpg	123 Other St,	O
+89.jpg	Redmond WA, 98052	O
+89.jpg	BILL TO:	O
+89.jpg	SHIP TO:	O
+89.jpg	SERVICE ADDRESS:	O
+89.jpg	Microsoft Finance	O
+89.jpg	Microsoft Delivery	O
+89.jpg	Microsoft Services	O
+89.jpg	123 Bill St,	O
+89.jpg	123 Ship St,	O
+89.jpg	123 Service St,	O
+89.jpg	Redmond WA, 98052	O
+89.jpg	Redmond WA, 98052	O
+89.jpg	Redmond WA, 98052	O
+89.jpg	SALESPERSON	O
+89.jpg	P.o. NUMBER	O
+89.jpg	REQUISITIONER	O
+89.jpg	SHIPPED VIA	O
+89.jpg	F.o.B. POINT	O
+89.jpg	TERMS	O
+89.jpg	PO-3333	O
+89.jpg	DATE	O
+89.jpg	ITEM CODE	O
+89.jpg	DESCRIPTION	O
+89.jpg	QTY	O
+89.jpg	UM	O
+89.jpg	PRICE	O
+89.jpg	TAX	O
+89.jpg	AMOUNT	O
+89.jpg	3-4-2021	O
+89.jpg	A123	O
+89.jpg	Consulting Services	O
+89.jpg	2	O
+89.jpg	hours	O
+89.jpg	S30.00	O
+89.jpg	10%	O
+89.jpg	S60.00	O
+89.jpg	3-5-2021	O
+89.jpg	B456	O
+89.jpg	Document Fee	O
+89.jpg	3	O
+89.jpg	S10.00	O
+89.jpg	5%	O
+89.jpg	S30.00	O
+89.jpg	3-6-2021	O
+89.jpg	C789	O
+89.jpg	Printing Fee	O
+89.jpg	10	O
+89.jpg	pages	O
+89.jpg	S1.00	O
+89.jpg	20%	O
+89.jpg	S10.00	O
+89.jpg	SUBTOTAL	O
+89.jpg	S100.00	O
+89.jpg	SALES TAX	O
+89.jpg	S10.00	O
+89.jpg	TOTAL	O
+89.jpg	S110.00	O
+89.jpg	PREVIOUS UNPAID BALANCE	O
+89.jpg	S500.00	O
+89.jpg	AMOUNT DUE	O
+89.jpg	S610.00	AMOUNT
+89.jpg	THANK YOU FOR YOUR BUSINESS!	O
+89.jpg	REMIT TO:	O
+89.jpg	Contoso Billing	O
+89.jpg	123 Remit St	O
+89.jpg	New York, NY, 10001	O
+90.jpg	Invoice Record	O
+90.jpg	VENDOR	O
+90.jpg	Invoice Number: [0401241	NUMB
+90.jpg	Paragon Steel	O
+90.jpg	Invoice Date: October &, 2018	DATE
+90.jpg	Finley Perry	O
+90.jpg	Created By: Douglas Falcon	O
+90.jpg	74 Moulton Road	O
+90.jpg	Due Date: November &, 2018	O
+90.jpg	Gwaenysgor	O
+90.jpg	PO.Number: PO-SteelBearLtd.-00135	O
+90.jpg	LLIS ZYF	O
+90.jpg	Uniled Kingdom	O
+90.jpg	Invoice Status: Approved for Payment	O
+90.jpg	BILLED TO	O
+90.jpg	Steel Bear Productions Lid,	O
+90.jpg	2200 Katimavik Road, Suite 20 |	O
+90.jpg	Oltawa,Ontario	O
+90.jpg	KZL [W8	O
+90.jpg	Canada	O
+90.jpg	Details	O
+90.jpg	Item	O
+90.jpg	Unit	O
+90.jpg	Qly	O
+90.jpg	Price	O
+90.jpg	Subtotal	O
+90.jpg	SD3S6Brass Pipes	O
+90.jpg	Pipes >	O
+90.jpg	350	O
+90.jpg	27289Bronze Bars	O
+90.jpg	Bar	O
+90.jpg	40.2144WHot Rod Steel Bars	O
+90.jpg	5 pcs	O
+90.jpg	32.00	O
+90.jpg	160.001	O
+90.jpg	TOTAL:	O
+90.jpg	CAD $3,010,00	AMOUNT
+90.jpg	Payment Terms:	O
+90.jpg	Net 30	O
+90.jpg	Invoice Notes:	O
+90.jpg	Payment due 30 days Irom date issued	O
+90.jpg	Unit	O
+90.jpg	Bars	O
+93.png	[Company Name]	O
+93.png	INVOICE	O
+93.png	[Street Address]	O
+93.png	[City, ST	O
+93.png	ZP]	O
+93.png	INVOICE #	O
+93.png	2/15/2018	DATE
+93.png	2034	NUMB
+93.png	BILL TO	O
+93.png	CUSTOMERID	O
+93.png	DUE	O
+93.png	[Namej	O
+93.png	Upon Receipt	O
+93.png	[Street Address]	O
+93.png	[City	O
+93.png	[Phonel	O
+93.png	[Email Address]	O
+93.png	DESCRIPTION	O
+93.png	PRICE	O
+93.png	AMOUNT	O
+93.png	Service Fee	O
+93.png	200.00	O
+93.png	200.00	O
+93.png	Labor	O
+93.png	hours at S7E/hr	O
+93.png	75.00	O
+93.png	375.00	O
+93.png	client discount	O
+93.png	(50.00)	O
+93.png	Thark Ycu for your business	O
+93.png	SUBTOTAL	O
+93.png	525.00	O
+93.png	TAX (7.3125%)	O
+93.png	38.39	O
+93.png	TOTAL	O
+93.png	563.39	AMOUNT
+93.png	Ifyou have any questions about this invoice,	O
+93.png	lease contad [Name, Phone_	O
+93.png	email@address com]	O
+93.png	PAYMENT PLAN OPTIONS	O
+93.png	Detach ni? payient stub and retu	O
+93.png	will pay the total 5563.39 in full	O
+93.png	Customerid:	O
+93.png	564	O
+93.png	will make 12 monthly payments of 546.95	O
+93.png	Months	O
+93.png	Monthly Payment	O
+93.png	46.95	O
+93.png	Iwill make	O
+93.png	monthly payments of 5100.00	O
+93.png	Monthly Payment	O
+93.png	100.00	O
+93.png	and	O
+93.png	final payment of 563.39	O
+93.png	Final Payment	O
+93.png	63.39	O
+95.png	Invoice	O
+95.png	Your Company Name	O
+95.png	77 Hammersmith Road, West Kensirgton	O
+95.png	Lordon	O
+95.png	Pnone' 0208 668 381	O
+95.png	"Invoice Date"""	O
+95.png	25,10.2019	DATE
+95.png	Involce Number	O
+95.png	1234	NUMB
+95.png	To	O
+95.png	Cllent Reference	O
+95.png	cllen_	O
+95.png	Buyer Lid.	O
+95.png	Purchase Order:	O
+95.png	A00342	O
+95.png	Bily Buyer	O
+95.png	DUE DATE:	O
+95.png	24.11.2019	O
+95.png	43 Custonier Road	O
+95.png	Manchester M4 IHS	O
+95.png	Additional	O
+95.png	informalion	O
+95.png	Add any additional Instnuctions Or tems here	O
+95.png	Description	O
+95.png	Qty	O
+95.png	Unit	O
+95.png	Unit Price	O
+95.png	VAT%	O
+95.png	VAT	O
+95.png	Total	O
+95.png	Cleniwork	O
+95.png	60	O
+95.png	2090	O
+95.png	€60,0D	O
+95.png	6360	O
+95.png	Products	O
+95.png	pCS	O
+95.png	C105,00	O
+95.png	105	O
+95.png	260	O
+95.png	Sub Total	O
+95.png	6 1 350,00	O
+95.png	Total VAT	O
+95.png	€270,00	O
+95.png	Total amount due	O
+95.png	620	AMOUNT
+95.png	Registered Address:	O
+95.png	Contact Intormallon	O
+95.png	Payment Detalls	O
+95.png	Ffeday Sclet	O
+95.png	Barcidye	O
+95.png	Phtone' 0208 688 381	O
+95.png	30-81-12	O
+95.png	Account No	O
+95.png	12343078	O
+95.png	PLC	O
+96.png	In V 0 j € e	O
+96.png	Your Company	O
+96.png	Invoice #:	O
+96.png	24	NUMB
+96.png	Date:	O
+96.png	1-3-2021	DATE
+96.png	Client Details:	O
+96.png	Company Details:	O
+96.png	FoodVision (Pty) Ltd	O
+96.png	Your Company	O
+96.png	Piccadilly LaneGreenvale	O
+96.png	York Lane	O
+96.png	Johannesburg	O
+96.png	Port Elizabeth	O
+96.png	Gauteng	O
+96.png	Eastern Cape	O
+96.png	South Africa	O
+96.png	South Africa	O
+96.png	Item Name	O
+96.png	Item Description	O
+96.png	Oty	O
+96.png	Price	O
+96.png	Tax	O
+96.png	Excl: Total	O
+96.png	Total	O
+96.png	Graphic Design	O
+96.png	Logo & Branding	O
+96.png	8.00	O
+96.png	R165.00	O
+96.png	15.00%	O
+96.png	RI 147.83	O
+96.png	RI 320.00	O
+96.png	Web Development	O
+96.png	foodvisionwebsite co.za	O
+96.png	18.00	O
+96.png	R265.00	O
+96.png	15.00%	O
+96.png	R4 147.83	O
+96.png	R4 770.00	O
+96.png	Newsletter Management	O
+96.png	foodvisionwebsite.co.za	O
+96.png	4.00	O
+96.png	R165.00	O
+96.png	15.00%	O
+96.png	R573.91	O
+96.png	R660.00	O
+96.png	Content Updates	O
+96.png	foodvisionwebsite co.za	O
+96.png	2.00	O
+96.png	R165.00	O
+96.png	15.00%	O
+96.png	R286.96	O
+96.png	R330.00	O
+96.png	Sub Total: R6 156.53	O
+96.png	Please pay within 14 days_	O
+96.png	Total Tax: R923.47	O
+96.png	Total: R7 080.00	AMOUNT
